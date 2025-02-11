@@ -22,10 +22,20 @@ bash setup.sh
 
 ## Table 1
 
+Firstly, download and preprocess the datasets to needed formula:
+
+```
+cd mpc_projects/python
+bash preprocess_dataset.sh
+```
+
+Then you can run psi to share using preprocessed datasets:
+
 ```
 cd mpc_projects
 bash run_psi_to_share_using_files_test.sh
 ```
+
 
 
 
