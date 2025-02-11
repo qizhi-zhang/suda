@@ -4,7 +4,7 @@ This is the code for expierments in the paper "Suda: An Efficient and Secure Unb
 Vertical Privacy-Preserving Machine Learning". 
 
 # Requerments:
-
+Intel(R) Xeon(R) Platinum 8260 +
 Debian GNU/Linux 10 (buster) +,    gcc 11.5.0+ and clang 18.1.8+,   memory 750GB
 
 
