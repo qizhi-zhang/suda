@@ -8,6 +8,28 @@ Vertical Privacy-Preserving Machine Learning".
 memory 750GB
 gcc 11.5.0+ and clang 18.1.8+
 
+
+
+# Setup mpc_projects (Our code):
+
+```
+cd mpc_projects
+bash setup.sh
+
+```
+
+# Run mpc_projects (Our code):
+
+## Table 1
+
+```
+cd mpc_projects
+bash run_psi_to_share_using_files_test.sh
+```
+
+
+
+
 # Setup PIRANA
 
 ```
@@ -15,12 +37,12 @@ cd PIRANA
 bash setup.sh
 ```
 
-# run PIRANA
+# run PIRANA (Table 5 in paper)
 
 cd PIRANA
 nohup bash run.sh >run.log 2>&1 &
 
-# PIRANA performance
+## PIRANA performance
 
 pip install pandas
 python3 performance.py
@@ -57,20 +79,28 @@ bash setup.sh
 cd ..
 ```
 
+# run volepsi (Part CPSI in Table 1)
+
+```
+cd volePSI
+bash run_cpsi.sh
+```
+
+Then, run mpc-lr on the aliged secret-share dataset:
+
+```
+bash run_mpclr.sh
+```
+
+
+
+
 # Setup iPrivateJoin
 
 ```
 cd iPrivJoin
 bash setup_paper_exp.sh
 cd ..
-```
-
-# Setup mpc_projects (Our code):
-
-```
-cd mpc_projects
-bash setup.sh
-
 ```
 
 # run mpc_projects:
