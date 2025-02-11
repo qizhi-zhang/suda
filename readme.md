@@ -8,7 +8,7 @@ Vertical Privacy-Preserving Machine Learning".
 Debian GNU/Linux 10 (buster) +,    gcc 11.5.0+ and clang 18.1.8+,   memory 750GB
 
 
-# Run mpc_projects (Our code):
+# Run  expierments for our work:
 
 
 ## Install dependencies
@@ -80,7 +80,9 @@ bash run_psi_to_share_test_interratio.sh > run_psi_to_share_test_interratio.log 
 nohup bash run_batchpir_test.sh >batch_pir.log  2>&1 &
 ```
 
-## Run expierments in Table 1
+## Run expierments in Table 1 (Suda)
+
+### Part Secure Data Alignment 
 
 Firstly, download and preprocess the datasets to needed formula:
 
@@ -94,6 +96,8 @@ Then you can run psi to share using preprocessed datasets:
 nohup bash run_psi_to_share_using_files_test.sh > run_psi_to_share_using_files_test.log 2>&1 &
 ```
 
+### Part Secure Training
+
 Finnaly, you can run mpc-lr on the aliged secret-share dataset:
 
 ```
@@ -101,7 +105,7 @@ bash run_mpclr.sh
 ```
 
 
-# Run compared works
+# Run  expierments for comparing work:
 
 
 # Run PIRANA
