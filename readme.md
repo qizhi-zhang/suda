@@ -1,3 +1,8 @@
+# Suda: An Efficient and Secure Unbalanced Data Alignment Framework for Vertical Privacy-Preserving Machine Learning
+
+This is the code for expierments in the paper "Suda: An Efficient and Secure Unbalanced Data Alignment Framework for
+Vertical Privacy-Preserving Machine Learning". 
+
 # Requerments:
 
 memory 750GB
@@ -60,7 +65,7 @@ bash setup_paper_exp.sh
 cd ..
 ```
 
-# Setup mpc_projects:
+# Setup mpc_projects (Our code):
 
 ```
 cd mpc_projects
