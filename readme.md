@@ -124,7 +124,7 @@ cd PIRANA
 nohup bash run.sh >run.log 2>&1 &
 ```
 
-### collect permormances: 
+Then, collect the permormances: 
 ```
 python3 -m venv .venv
 source .venv/bin/activate
@@ -188,8 +188,24 @@ bash run_mpclr.sh
 ```
 cd iPrivJoin
 bash setup_paper_exp.sh
-cd ..
+```
+
+## Run expierments in Table 2
+
+```
+nohup bash run_test_size.sh > run_test_size.log 2>&1 &
+```
+
+## Run expierments in Table 3
+
+```
+nohup bash run_test_payload.sh > run_test_payload.log 2>&1 &
 ```
 
 
+## Run expierments in Table 4
+
+```
+bash run_config.sh > run_config.log 2>&1 &
+```
 
