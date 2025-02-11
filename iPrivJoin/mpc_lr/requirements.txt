@@ -1,2 +1,0 @@
-crypten==0.4.1
-psutil==6.1.1

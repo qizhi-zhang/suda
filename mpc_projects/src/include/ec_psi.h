@@ -442,7 +442,7 @@ class ECPlayer0
   {
      size_t length = v_ids.size();
         std::vector<ECPoint> hashed_points(length);
-             #pragma omp parallel for num_threads(16) collapse(1)  //private(reduced_poly_cipher)  
+            //  #pragma omp parallel for num_threads(16) collapse(1)  //private(reduced_poly_cipher)  
         for (size_t i=0; i<length; i++)
         {
             hash_to_point(v_ids[i], hashed_points[i].P);
@@ -476,7 +476,7 @@ class ECPlayer0
     std::vector<ShortECPoint> ec_encryptedID_toshort(vector<ECPoint> ec_points)
     {
         std::vector<ShortECPoint> v_ec_points_short(ec_points.size());
-        #pragma omp parallel for num_threads(16) collapse(1)  // private(reduced_poly_cipher)  
+        // #pragma omp parallel for num_threads(16) collapse(1)  // private(reduced_poly_cipher)  
         for (size_t i=0; i<ec_points.size(); i++)
         {
             v_ec_points_short[i] =  ec_encryptedID_toshort(ec_points[i]);
@@ -1061,7 +1061,7 @@ class ECPaillierPlayer0
   {
      size_t length = v_ids.size();
         std::vector<ECPoint> hashed_points(length);
-             #pragma omp parallel for num_threads(16) collapse(1)  //private(reduced_poly_cipher)  
+            //  #pragma omp parallel for num_threads(16) collapse(1)  //private(reduced_poly_cipher)  
         for (size_t i=0; i<length; i++)
         {
             hash_to_point(v_ids[i], hashed_points[i].P);
@@ -1095,7 +1095,7 @@ class ECPaillierPlayer0
     std::vector<ShortECPoint> ec_encryptedID_toshort(vector<ECPoint> ec_points)
     {
         std::vector<ShortECPoint> v_ec_points_short(ec_points.size());
-        #pragma omp parallel for num_threads(16) collapse(1)  // private(reduced_poly_cipher)  
+        // #pragma omp parallel for num_threads(16) collapse(1)  // private(reduced_poly_cipher)  
         for (size_t i=0; i<ec_points.size(); i++)
         {
             v_ec_points_short[i] =  ec_encryptedID_toshort(ec_points[i]);

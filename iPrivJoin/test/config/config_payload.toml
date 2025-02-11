@@ -4,5 +4,5 @@ address = "localhost:10051"
 pa_elems = 1024
 pa_features = 1
 pb_elems = 1048576
-pb_features = 50
+pb_features = 100
 max_in_bin = 1000
