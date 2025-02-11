@@ -1,0 +1,168 @@
+
+
+0
+PA data: 1024
+PB data: 1048576
+PA feature: 1
+PB feature: 50
+Time for init: 0.519412ms
+Time for wait: 48649.9ms
+Time for hashing: 2.93926 ms
+Time for OPPRF1st: 66035.7 ms
+Time for OPPRF2nd: 118147 ms
+Time for OPRF: 151.755 ms
+Time for share: 1.99312 ms
+Time for shuffle1st: 55 ms
+Time for shuffle2nd: 27 ms
+Time for khprf: 0.0132437 ms
+Total runtime: 184538ms
+Total runtime-wait time: 135888ms
+Total receive: 2640.59MB
+Total send: 5.09981MB
+
+
+0
+PA data: 1024
+PB data: 1048576
+PA feature: 1
+PB feature: 50
+Time for init: 0.438332ms
+Time for wait: 48307.5ms
+Time for hashing: 2.75354 ms
+Time for OPPRF1st: 65879.1 ms
+Time for OPPRF2nd: 117710 ms
+Time for OPRF: 161.24 ms
+Time for share: 1.79042 ms
+Time for shuffle1st: 56 ms
+Time for shuffle2nd: 27 ms
+Time for khprf: 0.0122864 ms
+Total runtime: 183950ms
+Total runtime-wait time: 135642ms
+Total receive: 2640.59MB
+Total send: 5.09981MB
+
+
+0
+PA data: 1024
+PB data: 5547
+PA feature: 1
+PB feature: 7500
+Time for init: 0.419277ms
+Time for wait: 73575ms
+Time for hashing: 2.75376 ms
+Time for OPPRF1st: 75218.1 ms
+Time for OPPRF2nd: 823041 ms
+Time for OPRF: 766.958 ms
+Time for share: 41.8517 ms
+Time for shuffle1st: 64329 ms
+Time for shuffle2nd: 55889 ms
+Time for khprf: 4.89418 ms
+Total runtime: 1.02088e+06ms
+Total runtime-wait time: 947305ms
+Total receive: 5820.81MB
+Total send: 471.518MB
+
+
+0
+PA data: 10000
+PB data: 10000
+PA feature: 147
+PB feature: 1
+Time for init: 335.326ms
+Time for wait: 936.653ms
+Time for hashing: 20.675 ms
+Time for OPPRF1st: 6618.41 ms
+Time for OPPRF2nd: 6623.2 ms
+Time for OPRF: 2096.59 ms
+Time for share: 5439.98 ms
+Time for shuffle1st: 8675 ms
+Time for shuffle2nd: 6824 ms
+Time for khprf: 0.654405 ms
+Total runtime: 36876.8ms
+Total runtime-wait time: 35940.2ms
+Total receive: 84.0323MB
+Total send: 131.075MB
+
+
+0
+PA data: 10000
+PB data: 10000
+PA feature: 1
+PB feature: 147
+Time for init: 3.43915ms
+Time for wait: 7495.09ms
+Time for hashing: 20.7227 ms
+Time for OPPRF1st: 13322.4 ms
+Time for OPPRF2nd: 77962.1 ms
+Time for OPRF: 2031.54 ms
+Time for share: 54.0022 ms
+Time for shuffle1st: 8575 ms
+Time for shuffle2nd: 6859 ms
+Time for khprf: 0.714769 ms
+Total runtime: 109096ms
+Total runtime-wait time: 101601ms
+Total receive: 665.281MB
+Total send: 77.6087MB
+
+
+0
+PA data: 10000
+PB data: 10000
+PA feature: 1
+PB feature: 147
+Time for init: 3.68803ms
+Time for wait: 6877.55ms
+Time for hashing: 8.59894 ms
+Time for OPPRF1st: 12058.4 ms
+Time for OPPRF2nd: 27925.4 ms
+Time for OPRF: 1913.41 ms
+Time for share: 14.0698 ms
+Time for shuffle1st: 1480 ms
+Time for shuffle2nd: 800 ms
+Time for khprf: 0.633088 ms
+Total runtime: 44478.7ms
+Total runtime-wait time: 37601.2ms
+Total receive: 665.281MB
+Total send: 77.6087MB
+
+
+0
+PA data: 10000
+PB data: 10000
+PA feature: 1
+PB feature: 147
+Time for init: 3.45499ms
+Time for wait: 6963.96ms
+Time for hashing: 8.12907 ms
+Time for OPPRF1st: 12036.8 ms
+Time for OPPRF2nd: 28007 ms
+Time for OPRF: 1964.69 ms
+Time for share: 14.4779 ms
+Time for shuffle1st: 1632 ms
+Time for shuffle2nd: 797 ms
+Time for khprf: 0.63907 ms
+Total runtime: 44722.2ms
+Total runtime-wait time: 37758.2ms
+Total receive: 665.281MB
+Total send: 77.6087MB
+
+
+1
+PA data: 10000
+PB data: 10000
+PA feature: 1
+PB feature: 147
+Time for init: 332.542ms
+Time for wait: 2371.73ms
+Time for hashing: 41.5844 ms
+Time for OPPRF1st: 5344.86 ms
+Time for OPPRF2nd: 26490.8 ms
+Time for OPRF: 3446.97 ms
+Time for share: 17.6841 ms
+Time for shuffle1st: 844 ms
+Time for shuffle2nd: 2166 ms
+Time for khprf: 0.680765 ms
+Total runtime: 45387.9ms
+Total runtime-wait time: 43016.1ms
+Total receive: 77.6087MB
+Total send: 665.281MB

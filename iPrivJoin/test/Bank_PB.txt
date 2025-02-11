@@ -1,0 +1,42 @@
+1
+Time for init: 7.19415ms
+Time for wait: 121.391ms
+Time for hashing: 34.5628 ms
+Time for OPPRF1st: 3018.3 ms
+Time for OPPRF2nd: 3502.76 ms
+Time for OPRF: 254.484 ms
+Time for shuffle1st: 56 ms
+Time for shuffle2nd: 120 ms
+Time for khprf: 0.0368371 ms
+Total runtime: 7233.9ms
+Total runtime-wait time: 7112.51ms
+Total receive: 3.2616MB
+Total send: 17.0585MB
+1
+Time for init: 7.24288ms
+Time for wait: 123.954ms
+Time for hashing: 34.6636 ms
+Time for OPPRF1st: 3040.46 ms
+Time for OPPRF2nd: 3561.47 ms
+Time for OPRF: 251.344 ms
+Time for shuffle1st: 55 ms
+Time for shuffle2nd: 120 ms
+Time for khprf: 0.0348527 ms
+Total runtime: 7308.06ms
+Total runtime-wait time: 7184.1ms
+Total receive: 3.2616MB
+Total send: 17.0585MB
+1
+Time for init: 7.20409ms
+Time for wait: 132.245ms
+Time for hashing: 33.6029 ms
+Time for OPPRF1st: 2992.48 ms
+Time for OPPRF2nd: 3497.42 ms
+Time for OPRF: 261.359 ms
+Time for shuffle1st: 27 ms
+Time for shuffle2nd: 61 ms
+Time for khprf: 0.0168259 ms
+Total runtime: 7105.44ms
+Total runtime-wait time: 6973.2ms
+Total receive: 3.17613MB
+Total send: 17.9357MB

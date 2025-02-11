@@ -1,0 +1,22 @@
+nohup: ignoring input
+Error: Cannot delete qdisc with handle of zero.
+Running experiment 1 with config:
+bins = 9831
+funcs = 2
+address = "localhost:10051"
+pa_elems = 4096
+pa_features = 1
+pb_elems = 1048576
+pb_features = 500
+max_in_bin = 300
+test/config/config_1048576_4096_1000_LAN.toml
+kuku hash success with fill rate: 0.416641
+finish cuckoo hash
+finish simple hash
+finish opprf1
+finish opprf2
+finish oprf
+finish share
+finish shuffle1
+finish shuffle2
+Peak memory usage: 38998716 KB

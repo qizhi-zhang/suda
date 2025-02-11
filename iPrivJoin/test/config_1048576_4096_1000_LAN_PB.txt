@@ -1,0 +1,21 @@
+
+
+1
+PA data: 4096
+PB data: 1048576
+PA feature: 1
+PB feature: 500
+Time for init: 121078ms
+Time for wait: 1459.13ms
+Time for hashing: 4125.02 ms
+Time for OPPRF1st: 19497.4 ms
+Time for OPPRF2nd: 1.29407e+06 ms
+Time for OPRF: 187.679 ms
+Time for share: 17.5397 ms
+Time for shuffle1st: 1770 ms
+Time for shuffle2nd: 4195 ms
+Time for khprf: 1.72162 ms
+Total runtime: 1.81468e+06ms
+Total runtime-wait time: 1.81322e+06ms
+Total receive: 135.694MB
+Total send: 33019.7MB

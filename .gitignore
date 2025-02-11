@@ -1,0 +1,7 @@
+.vscode
+mpc_projects/build
+mpc_projects/src/third_party/*
+!mpc_projects/src/third_party/*.get
+iPrivJoin/build
+volepsi/out/*
+

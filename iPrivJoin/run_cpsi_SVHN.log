@@ -1,0 +1,61 @@
+nohup: ignoring input
+Error: Cannot delete qdisc with handle of zero.
+file_name=/root/zqz/mpc_projects/data/SVHNX_1row.json
+file_name=/root/zqz/mpc_projects/data/SVHNY1024.json
+output_file_name=./SVHN.out0
+output_file_name=./SVHN.out1
+server_ids.size()=630420
+data.size()=1936650240
+1.0*data.size()/server_ids.size()=3072
+batch_id=0
+recvSet.size()=1024
+batch_id=1
+recvSet.size()=1024
+batch_id=2
+recvSet.size()=1024
+batch_id=3
+recvSet.size()=1024
+batch_id=4
+recvSet.size()=1024
+batch_id=5
+recvSet.size()=1024
+batch_id=6
+recvSet.size()=1024
+batch_id=7
+recvSet.size()=1024
+batch_id=8
+recvSet.size()=1024
+batch_id=9
+recvSet.size()=1024
+batch_id=10
+recvSet.size()=1024
+batch_id=11
+recvSet.size()=1024
+batch_id=12
+recvSet.size()=1024
+batch_id=13
+recvSet.size()=1024
+batch_id=14
+recvSet.size()=1024
+batch_id=15
+recvSet.size()=1024
+batch_id=16
+recvSet.size()=1024
+batch_id=17
+recvSet.size()=1024
+batch_id=18
+recvSet.size()=1024
+batch_id=19
+recvSet.size()=1024
+batch_id=20
+recvSet.size()=1024
+batch_id=21
+recvSet.size()=1024
+mem_usage of party1 = 3514.68MB
+party1 send 21.9009MB
+party1 receive 71192.5MB
+running time of party1 = 16350.8s
+mem_usage of party0 = 77106.2MB
+party0 send 71192.5MB
+party0 receive 21.9009MB
+running time of party0 = 16351.3s

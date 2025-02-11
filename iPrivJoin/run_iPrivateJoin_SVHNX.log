@@ -1,0 +1,83 @@
+nohup: ignoring input
+Error: Cannot delete qdisc with handle of zero.
+test/config/configIO_SVHN.toml
+test/config/configIO_SVHN.toml
+/root/zqz/iPrivJoin/main.cpp:127
+/root/zqz/iPrivJoin/main.cpp:123
+/root/zqz/iPrivJoin/src/joinData/joinData.cpp:130
+/root/zqz/iPrivJoin/src/joinData/joinData.cpp:100
+context.data_file=/root/zqz/mpc_projects/data/SVHNX_1row.json
+context.data_file=/root/zqz/mpc_projects/data/SVHNY1024.json
+context.pa_elems1024
+client_size=1024
+context.pa_features=1
+/root/zqz/iPrivJoin/src/joinData/joinData.cpp:117
+/root/zqz/iPrivJoin/src/joinData/joinData.cpp:123
+kuku hash success with fill rate: 0.416599
+finish cuckoo hash
+/root/zqz/iPrivJoin/src/client.cpp:62
+/root/zqz/iPrivJoin/src/client.cpp:64
+/root/zqz/iPrivJoin/src/client.cpp:68
+server_ids.size()=630420
+data.size()=1936650240
+1.0*data.size()/server_ids.size()=3072
+server_size=630420
+feature_num=3072
+/root/zqz/iPrivJoin/src/joinData/joinData.cpp:145
+/root/zqz/iPrivJoin/src/joinData/joinData.cpp:148
+/root/zqz/iPrivJoin/src/joinData/joinData.cpp:151
+finish simple hash
+/root/zqz/iPrivJoin/src/server.cpp:70
+/root/zqz/iPrivJoin/src/server.cpp:74
+/root/zqz/iPrivJoin/src/server.cpp:76
+/root/zqz/iPrivJoin/src/server.cpp:78
+finish opprf1
+finish opprf2
+finish oprf
+finish share
+finish shuffle1
+finish shuffle2
+
+
+0
+PA data: 1024
+PB data: 630420
+PA feature: 1
+PB feature: 1536
+Time for init: 2.73613ms
+Time for wait: 2.85865e+06ms
+Time for hashing: 0.962868 ms
+Time for OPPRF1st: 2.87426e+06 ms
+Time for OPPRF2nd: 9.3016e+06 ms
+Time for OPRF: 765.33 ms
+Time for share: 41.986 ms
+Time for shuffle1st: 13102 ms
+Time for shuffle2nd: 10973 ms
+Time for khprf: 0.848337 ms
+Total runtime: 1.22011e+07ms
+Total runtime-wait time: 9.3424e+06ms
+Total receive: 63146.8MB
+Total send: 112.236MB
+mem usage=3565.07MB
+
+
+1
+PA data: 1024
+PB data: 630420
+PA feature: 1
+PB feature: 1536
+Time for init: 2.26668e+06ms
+Time for wait: 4005ms
+Time for hashing: 2267.98 ms
+Time for OPPRF1st: 15105.9 ms
+Time for OPPRF2nd: 9.30044e+06 ms
+Time for OPRF: 1634.59 ms
+Time for share: 87.6372 ms
+Time for shuffle1st: 10536 ms
+Time for shuffle2nd: 15696 ms
+Time for khprf: 0.804922 ms
+Total runtime: 1.22032e+07ms
+Total runtime-wait time: 1.21992e+07ms
+Total receive: 112.236MB
+Total send: 63146.8MB
+mem usage=77105.8MB

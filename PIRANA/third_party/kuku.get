@@ -1,0 +1,6 @@
+git clone https://github.com/microsoft/Kuku.git
+cd Kuku
+git checkout b1f26f99cc9d
+cmake -S . -B build
+cmake --build build
+cd ..

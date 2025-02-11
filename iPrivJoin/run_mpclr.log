@@ -1,0 +1,5358 @@
+Error: Cannot delete qdisc with handle of zero.
+--------------------------------------------------------
+------------------------CFI-------------------------------
+INFO:root:==================
+INFO:root:DistributedCommunicator with rank 0
+INFO:root:==================
+INFO:root:==================
+INFO:root:DistributedCommunicator with rank 1
+INFO:root:==================
+INFO:root:World size = 2
+INFO:root:World size = 2
+/root/.pyenv/versions/3.9.11/lib/python3.9/site-packages/crypten/__init__.py:64: RuntimeWarning: CrypTen is already initialized.
+  warnings.warn("CrypTen is already initialized.", RuntimeWarning)
+/root/.pyenv/versions/3.9.11/lib/python3.9/site-packages/crypten/__init__.py:64: RuntimeWarning: CrypTen is already initialized.
+  warnings.warn("CrypTen is already initialized.", RuntimeWarning)
+data= [[[ 2980944138566504644  7344094843592057820 -5079889069186265361 ...
+   -2988827954358727218                    0                    0]
+  [ 6905522769973173769  6905470399960796277 -7451604539729620373 ...
+   -2574795799393049125                    0                    0]
+  [ -956859205615075319 -1866389501791938816 -8481639997951517018 ...
+    5599595559438732430                    0                    1]
+  ...
+  [ 3178339418366553201 -2977537038716897920  4359198580481882192 ...
+   -8499016731476364582                    0                    0]
+  [ 7034900972635899303  3465187419621101283  4879269847735042988 ...
+    3625029292275918972                    0                    0]
+  [ 3546986852677754540  8045589869325235055 -3386009522110629899 ...
+    4663865332940002021                    0                    1]]
+
+ [[ 2980944138566504644  7344094843592057820 -5079889069186265361 ...
+   -2988827954358727218                    0                    1]
+  [ 6905522769973173769  6905470399960796277 -7451604539729620373 ...
+   -2574795799393049125                    0                    1]
+  [ -956859205615075319 -1866389501791938816 -8481639997951517018 ...
+    5599595559438732430                    0                    1]
+  ...
+  [ 3178339418366553201 -2977537038716897920  4359198580481882192 ...
+   -8499016731476364582                    0                    0]
+  [ 7034900972635899303  3465187419621101283  4879269847735042988 ...
+    3625029292275918972                    0                    0]
+  [ 3546986852677754540  8045589869325235055 -3386009522110629899 ...
+    4663865332940002021                    0                    1]]
+
+ [[ 2980944138566504644  7344094843592057820 -5079889069186265361 ...
+   -2988827954358727218                    0                    1]
+  [ 6905522769973173769  6905470399960796277 -7451604539729620373 ...
+   -2574795799393049125                    0                    0]
+  [ -956859205615075319 -1866389501791938816 -8481639997951517018 ...
+    5599595559438732430                    0                    0]
+  ...
+  [ 3178339418366553201 -2977537038716897920  4359198580481882192 ...
+   -8499016731476364582                    0                    1]
+  [ 7034900972635899303  3465187419621101283  4879269847735042988 ...
+    3625029292275918972                    0                    1]
+  [ 3546986852677754540  8045589869325235055 -3386009522110629899 ...
+    4663865332940002021                    0                    0]]
+
+ [[ 2980944138566504644  7344094843592057820 -5079889069186265361 ...
+   -2988827954358727218                    0                    0]
+  [ 6905522769973173769  6905470399960796277 -7451604539729620373 ...
+   -2574795799393049125                    0                    1]
+  [ -956859205615075319 -1866389501791938816 -8481639997951517018 ...
+    5599595559438732430                    0                    1]
+  ...
+  [ 3178339418366553201 -2977537038716897920  4359198580481882192 ...
+   -8499016731476364582                    0                    0]
+  [ 7034900972635899303  3465187419621101283  4879269847735042988 ...
+    3625029292275918972                    0                    1]
+  [ 3546986852677754540  8045589869325235055 -3386009522110629899 ...
+    4663865332940002021                    0                    0]]]
+Epoch 0 in progress:
+Loss 0.7217
+Loss 0.7030
+Loss 0.6788
+Loss 0.6561
+Loss 0.6350
+Loss 0.6146
+Loss 0.5956
+Loss 0.5776
+Loss 0.5604
+Loss 0.5438
+Loss 0.5285
+Epoch 0 completed: Loss 0.5285 Accuracy 1.00
+Epoch 1 in progress:
+Loss 0.5132
+Loss 0.4992
+Loss 0.4854
+Loss 0.4725
+Loss 0.4602
+Loss 0.4485
+Loss 0.4371
+Loss 0.4262
+Loss 0.4163
+Loss 0.4064
+Loss 0.3961
+Epoch 1 completed: Loss 0.3961 Accuracy 1.00
+Epoch 2 in progress:
+Loss 0.3877
+Loss 0.3793
+Loss 0.3710
+Loss 0.3628
+Loss 0.3553
+Loss 0.3479
+Loss 0.3406
+Loss 0.3342
+Loss 0.3278
+Loss 0.3208
+Loss 0.3148
+Epoch 2 completed: Loss 0.3148 Accuracy 1.00
+Epoch 3 in progress:
+Loss 0.3093
+Loss 0.3036
+Loss 0.2984
+Loss 0.2931
+Loss 0.2878
+Loss 0.2832
+Loss 0.2783
+Loss 0.2741
+Loss 0.2693
+Loss 0.2655
+Loss 0.2611
+Epoch 3 completed: Loss 0.2611 Accuracy 1.00
+Epoch 4 in progress:
+Loss 0.2573
+Loss 0.2532
+Loss 0.2495
+Loss 0.2457
+Loss 0.2424
+Loss 0.2390
+Loss 0.2356
+Loss 0.2324
+Loss 0.2290
+Loss 0.2260
+Loss 0.2237
+Epoch 4 completed: Loss 0.2237 Accuracy 1.00
+Epoch 5 in progress:
+Loss 0.2203
+Loss 0.2176
+Loss 0.2150
+Loss 0.2124
+Loss 0.2097
+Loss 0.2077
+Loss 0.2053
+Loss 0.2026
+Loss 0.2002
+Loss 0.1980
+Loss 0.1959
+Epoch 5 completed: Loss 0.1959 Accuracy 1.00
+Epoch 6 in progress:
+Loss 0.1936
+Loss 0.1918
+Loss 0.1895
+Loss 0.1879
+Loss 0.1856
+Loss 0.1837
+Loss 0.1821
+Loss 0.1802
+Loss 0.1787
+Loss 0.1767
+Loss 0.1749
+Epoch 6 completed: Loss 0.1749 Accuracy 1.00
+Epoch 7 in progress:
+Loss 0.1733
+Loss 0.1717
+Loss 0.1703
+Loss 0.1691
+Loss 0.1674
+Loss 0.1659
+Loss 0.1645
+Loss 0.1627
+Loss 0.1615
+Loss 0.1601
+Loss 0.1585
+Epoch 7 completed: Loss 0.1585 Accuracy 1.00
+Epoch 8 in progress:
+Loss 0.1576
+Loss 0.1565
+Loss 0.1547
+Loss 0.1538
+Loss 0.1527
+Loss 0.1516
+Loss 0.1504
+Loss 0.1491
+Loss 0.1482
+Loss 0.1474
+Loss 0.1454
+Epoch 8 completed: Loss 0.1454 Accuracy 1.00
+Epoch 9 in progress:
+Loss 0.1449
+Loss 0.1442
+Loss 0.1432
+Loss 0.1421
+Loss 0.1409
+Loss 0.1400
+Loss 0.1390
+Loss 0.1383
+Loss 0.1369
+Loss 0.1362
+Loss 0.1353
+Epoch 9 completed: Loss 0.1353 Accuracy 1.00
+Epoch 10 in progress:
+Loss 0.1343
+Loss 0.1340
+Loss 0.1332
+Loss 0.1321
+Loss 0.1312
+Loss 0.1306
+Loss 0.1297
+Loss 0.1290
+Loss 0.1281
+Loss 0.1275
+Loss 0.1272
+Epoch 10 completed: Loss 0.1272 Accuracy 1.00
+Epoch 11 in progress:
+Loss 0.1263
+Loss 0.1255
+Loss 0.1244
+Loss 0.1241
+Loss 0.1234
+Loss 0.1224
+Loss 0.1223
+Loss 0.1213
+Loss 0.1210
+Loss 0.1201
+Loss 0.1194
+Epoch 11 completed: Loss 0.1194 Accuracy 1.00
+Epoch 12 in progress:
+Loss 0.1189
+Loss 0.1185
+Loss 0.1176
+Loss 0.1170
+Loss 0.1163
+Loss 0.1158
+Loss 0.1150
+Loss 0.1146
+Loss 0.1145
+Loss 0.1139
+Loss 0.1136
+Epoch 12 completed: Loss 0.1136 Accuracy 1.00
+Epoch 13 in progress:
+Loss 0.1128
+Loss 0.1126
+Loss 0.1118
+Loss 0.1112
+Loss 0.1105
+Loss 0.1100
+Loss 0.1097
+Loss 0.1092
+Loss 0.1087
+Loss 0.1083
+Loss 0.1078
+Epoch 13 completed: Loss 0.1078 Accuracy 1.00
+Epoch 14 in progress:
+Loss 0.1075
+Loss 0.1069
+Loss 0.1066
+Loss 0.1060
+Loss 0.1057
+Loss 0.1052
+Loss 0.1050
+Loss 0.1042
+Loss 0.1039
+Loss 0.1037
+Loss 0.1028
+Epoch 14 completed: Loss 0.1028 Accuracy 1.00
+Epoch 15 in progress:
+Loss 0.1025
+Loss 0.1025
+Loss 0.1021
+Loss 0.1021
+Loss 0.1014
+Loss 0.1010
+Loss 0.1007
+Loss 0.1002
+Loss 0.1000
+Loss 0.0995
+Loss 0.0998
+Epoch 15 completed: Loss 0.0998 Accuracy 1.00
+Epoch 16 in progress:
+Loss 0.0990
+Loss 0.0984
+Loss 0.0978
+Loss 0.0974
+Loss 0.0977
+Loss 0.0968
+Loss 0.0969
+Loss 0.0967
+Loss 0.0958
+Loss 0.0960
+Loss 0.0955
+Epoch 16 completed: Loss 0.0955 Accuracy 1.00
+Epoch 17 in progress:
+Loss 0.0952
+Loss 0.0950
+Loss 0.0944
+Loss 0.0945
+Loss 0.0942
+Loss 0.0936
+Loss 0.0933
+Loss 0.0932
+Loss 0.0930
+Loss 0.0923
+Loss 0.0927
+Epoch 17 completed: Loss 0.0927 Accuracy 1.00
+Epoch 18 in progress:
+Loss 0.0922
+Loss 0.0920
+Loss 0.0914
+Loss 0.0911
+Loss 0.0910
+Loss 0.0908
+Loss 0.0905
+Loss 0.0901
+Loss 0.0899
+Loss 0.0897
+Loss 0.0898
+Epoch 18 completed: Loss 0.0898 Accuracy 1.00
+Epoch 19 in progress:
+Loss 0.0896
+Loss 0.0891
+Loss 0.0889
+Loss 0.0887
+Loss 0.0882
+Loss 0.0878
+Loss 0.0879
+Loss 0.0875
+Loss 0.0873
+Loss 0.0869
+Loss 0.0866
+Epoch 19 completed: Loss 0.0866 Accuracy 1.00
+Epoch 20 in progress:
+Loss 0.0869
+Loss 0.0866
+Loss 0.0865
+Loss 0.0860
+Loss 0.0857
+Loss 0.0858
+Loss 0.0853
+Loss 0.0850
+Loss 0.0849
+Loss 0.0847
+Loss 0.0844
+Epoch 20 completed: Loss 0.0844 Accuracy 1.00
+Epoch 21 in progress:
+Loss 0.0842
+Loss 0.0841
+Loss 0.0840
+Loss 0.0838
+Loss 0.0834
+Loss 0.0835
+Loss 0.0829
+Loss 0.0833
+Loss 0.0828
+Loss 0.0826
+Loss 0.0816
+Epoch 21 completed: Loss 0.0816 Accuracy 1.00
+Epoch 22 in progress:
+Loss 0.0821
+Loss 0.0822
+Loss 0.0815
+Loss 0.0815
+Loss 0.0816
+Loss 0.0813
+Loss 0.0812
+Loss 0.0810
+Loss 0.0808
+Loss 0.0802
+Loss 0.0806
+Epoch 22 completed: Loss 0.0806 Accuracy 1.00
+Epoch 23 in progress:
+Loss 0.0803
+Loss 0.0802
+Loss 0.0797
+Loss 0.0801
+Loss 0.0793
+Loss 0.0793
+Loss 0.0795
+Loss 0.0791
+Loss 0.0788
+Loss 0.0787
+Loss 0.0788
+Epoch 23 completed: Loss 0.0788 Accuracy 1.00
+Epoch 24 in progress:
+Loss 0.0783
+Loss 0.0783
+Loss 0.0784
+Loss 0.0781
+Loss 0.0779
+data= [[[ 2980944138566530722  7344094843592057820 -5079889069186265361 ...
+   -2988827954358727260                    0                    1]
+  [-4741231975436914899  1884402251644822576   888141027406036023 ...
+   -2905179834786729573                    0                    0]
+  [ 6257847681463397489  6731967568831750778  1605646431447428640 ...
+   -6106789077609645978                    0                    1]
+  ...
+  [-4222533692919197324  1994612546900142017  6757232465431083498 ...
+   -8520060984599747109                    0                    0]
+  [ 2719608692154042649 -8522220376509913756 -4822061502350993601 ...
+    7306709703197522739                    0                    0]
+  [-8387082611111131565 -4972514007213424986 -7495658199049739852 ...
+    4086762942760874138                    0                    1]]
+
+ [[-5127721645159603674 -7542841012018919851  1622328176696830294 ...
+    5432999875566808649                    0                    1]
+  [ 6905522769973164143  6905470399960796277 -7451604539729620401 ...
+   -2574795799393049126                    0                    0]
+  [  637030642870862020  3499514127991025405  3711725477225822190 ...
+    8498596534034607274                    0                    1]
+  ...
+  [  707275897360170445 -2460893080085877958  8994556299278698581 ...
+   -3786770610466349602                    0                    0]
+  [-3090751961148808062 -1582910463760024516 -5124783285491357678 ...
+    -642938249096074298                    0                    0]
+  [ 3546986852677777610  8045589869325235055 -3386009522110629930 ...
+    4663865332940001818                    0                    0]]
+
+ [[ 8526319094834050598   193459527881604725  8061941459914943368 ...
+   -2484239860377633966                    0                    1]
+  [ 2011651095781558055 -5175060134323075008  8734721973659973456 ...
+    6177776541085567259                    0                    0]
+  [ -956859205615029446 -1866389501791938816 -8481639997951517000 ...
+    5599595559438732431                    0                    1]
+  ...
+  [ 3178339418366560791 -2977537038716897920  4359198580481882192 ...
+   -8499016731476364581                    0                    0]
+  [ 7034900972635944596  3465187419621101283  4879269847735042958 ...
+    3625029292275918973                    0                    0]
+  [ 5392182061833807033  6021473675908658396  -402710985015340921 ...
+   -4621594834573342158                    0                    0]]
+
+ [[ 4268925702721262779  -838391655299510534  1916607218111105999 ...
+   -2949987397847258924                    0                    0]
+  [-5204821941045340455 -4425263506371583132 -8190037625376721829 ...
+   -8199642140188565812                    0                    1]
+  [ 8651490486053786162  8045503178551131694 -3384255518729001983 ...
+   -5711490887910429602                    0                    1]
+  ...
+  [ 3345592319574500239  6948754404798174238  3457331212330527633 ...
+     208390923116209036                    0                    0]
+  [ -148958994929183246 -7664222683015550942  8940591834320414382 ...
+   -2099551879434508565                    0                    1]
+  [ 4065967469362321864  7934329323018438492 -2291881833354439887 ...
+    3224271541869062317                    0                    0]]]
+Loss 0.7217
+Loss 0.7030
+Loss 0.6788
+Loss 0.6561
+Loss 0.6350
+Loss 0.6146
+Loss 0.5956
+Loss 0.5776
+Loss 0.5604
+Loss 0.5438
+Loss 0.5285
+Epoch 0 completed: Loss 0.5285 Accuracy 1.00
+Loss 0.5132
+Loss 0.4992
+Loss 0.4854
+Loss 0.4725
+Loss 0.4602
+Loss 0.4485
+Loss 0.4371
+Loss 0.4262
+Loss 0.4163
+Loss 0.4064
+Loss 0.3961
+Epoch 1 completed: Loss 0.3961 Accuracy 1.00
+Loss 0.3877
+Loss 0.3793
+Loss 0.3710
+Loss 0.3628
+Loss 0.3553
+Loss 0.3479
+Loss 0.3406
+Loss 0.3342
+Loss 0.3278
+Loss 0.3208
+Loss 0.3148
+Epoch 2 completed: Loss 0.3148 Accuracy 1.00
+Loss 0.3093
+Loss 0.3036
+Loss 0.2984
+Loss 0.2931
+Loss 0.2878
+Loss 0.2832
+Loss 0.2783
+Loss 0.2741
+Loss 0.2693
+Loss 0.2655
+Loss 0.2611
+Epoch 3 completed: Loss 0.2611 Accuracy 1.00
+Loss 0.2573
+Loss 0.2532
+Loss 0.2495
+Loss 0.2457
+Loss 0.2424
+Loss 0.2390
+Loss 0.2356
+Loss 0.2324
+Loss 0.2290
+Loss 0.2260
+Loss 0.2237
+Epoch 4 completed: Loss 0.2237 Accuracy 1.00
+Loss 0.2203
+Loss 0.2176
+Loss 0.2150
+Loss 0.2124
+Loss 0.2097
+Loss 0.2077
+Loss 0.2053
+Loss 0.2026
+Loss 0.2002
+Loss 0.1980
+Loss 0.1959
+Epoch 5 completed: Loss 0.1959 Accuracy 1.00
+Loss 0.1936
+Loss 0.1918
+Loss 0.1895
+Loss 0.1879
+Loss 0.1856
+Loss 0.1837
+Loss 0.1821
+Loss 0.1802
+Loss 0.1787
+Loss 0.1767
+Loss 0.1749
+Epoch 6 completed: Loss 0.1749 Accuracy 1.00
+Loss 0.1733
+Loss 0.1717
+Loss 0.1703
+Loss 0.1691
+Loss 0.1674
+Loss 0.1659
+Loss 0.1645
+Loss 0.1627
+Loss 0.1615
+Loss 0.1601
+Loss 0.1585
+Epoch 7 completed: Loss 0.1585 Accuracy 1.00
+Loss 0.1576
+Loss 0.1565
+Loss 0.1547
+Loss 0.1538
+Loss 0.1527
+Loss 0.1516
+Loss 0.1504
+Loss 0.1491
+Loss 0.1482
+Loss 0.1474
+Loss 0.1454
+Epoch 8 completed: Loss 0.1454 Accuracy 1.00
+Loss 0.1449
+Loss 0.1442
+Loss 0.1432
+Loss 0.1421
+Loss 0.1409
+Loss 0.1400
+Loss 0.1390
+Loss 0.1383
+Loss 0.1369
+Loss 0.1362
+Loss 0.1353
+Epoch 9 completed: Loss 0.1353 Accuracy 1.00
+Loss 0.1343
+Loss 0.1340
+Loss 0.1332
+Loss 0.1321
+Loss 0.1312
+Loss 0.1306
+Loss 0.1297
+Loss 0.1290
+Loss 0.1281
+Loss 0.1275
+Loss 0.1272
+Epoch 10 completed: Loss 0.1272 Accuracy 1.00
+Loss 0.1263
+Loss 0.1255
+Loss 0.1244
+Loss 0.1241
+Loss 0.1234
+Loss 0.1224
+Loss 0.1223
+Loss 0.1213
+Loss 0.1210
+Loss 0.1201
+Loss 0.1194
+Epoch 11 completed: Loss 0.1194 Accuracy 1.00
+Loss 0.1189
+Loss 0.1185
+Loss 0.1176
+Loss 0.1170
+Loss 0.1163
+Loss 0.1158
+Loss 0.1150
+Loss 0.1146
+Loss 0.1145
+Loss 0.1139
+Loss 0.1136
+Epoch 12 completed: Loss 0.1136 Accuracy 1.00
+Loss 0.1128
+Loss 0.1126
+Loss 0.1118
+Loss 0.1112
+Loss 0.1105
+Loss 0.1100
+Loss 0.1097
+Loss 0.1092
+Loss 0.1087
+Loss 0.1083
+Loss 0.1078
+Epoch 13 completed: Loss 0.1078 Accuracy 1.00
+Loss 0.1075
+Loss 0.1069
+Loss 0.1066
+Loss 0.1060
+Loss 0.1057
+Loss 0.1052
+Loss 0.1050
+Loss 0.1042
+Loss 0.1039
+Loss 0.1037
+Loss 0.1028
+Epoch 14 completed: Loss 0.1028 Accuracy 1.00
+Loss 0.1025
+Loss 0.1025
+Loss 0.1021
+Loss 0.1021
+Loss 0.1014
+Loss 0.1010
+Loss 0.1007
+Loss 0.1002
+Loss 0.1000
+Loss 0.0995
+Loss 0.0998
+Epoch 15 completed: Loss 0.0998 Accuracy 1.00
+Loss 0.0990
+Loss 0.0984
+Loss 0.0978
+Loss 0.0974
+Loss 0.0977
+Loss 0.0968
+Loss 0.0969
+Loss 0.0967
+Loss 0.0958
+Loss 0.0960
+Loss 0.0955
+Epoch 16 completed: Loss 0.0955 Accuracy 1.00
+Loss 0.0952
+Loss 0.0950
+Loss 0.0944
+Loss 0.0945
+Loss 0.0942
+Loss 0.0936
+Loss 0.0933
+Loss 0.0932
+Loss 0.0930
+Loss 0.0923
+Loss 0.0927
+Epoch 17 completed: Loss 0.0927 Accuracy 1.00
+Loss 0.0922
+Loss 0.0920
+Loss 0.0914
+Loss 0.0911
+Loss 0.0910
+Loss 0.0908
+Loss 0.0905
+Loss 0.0901
+Loss 0.0899
+Loss 0.0897
+Loss 0.0898
+Epoch 18 completed: Loss 0.0898 Accuracy 1.00
+Loss 0.0896
+Loss 0.0891
+Loss 0.0889
+Loss 0.0887
+Loss 0.0882
+Loss 0.0878
+Loss 0.0879
+Loss 0.0875
+Loss 0.0873
+Loss 0.0869
+Loss 0.0866
+Epoch 19 completed: Loss 0.0866 Accuracy 1.00
+Loss 0.0869
+Loss 0.0866
+Loss 0.0865
+Loss 0.0860
+Loss 0.0857
+Loss 0.0858
+Loss 0.0853
+Loss 0.0850
+Loss 0.0849
+Loss 0.0847
+Loss 0.0844
+Epoch 20 completed: Loss 0.0844 Accuracy 1.00
+Loss 0.0842
+Loss 0.0841
+Loss 0.0840
+Loss 0.0838
+Loss 0.0834
+Loss 0.0835
+Loss 0.0829
+Loss 0.0833
+Loss 0.0828
+Loss 0.0826
+Loss 0.0816
+Epoch 21 completed: Loss 0.0816 Accuracy 1.00
+Loss 0.0821
+Loss 0.0822
+Loss 0.0815
+Loss 0.0815
+Loss 0.0816
+Loss 0.0813
+Loss 0.0812
+Loss 0.0810
+Loss 0.0808
+Loss 0.0802
+Loss 0.0806
+Epoch 22 completed: Loss 0.0806 Accuracy 1.00
+Loss 0.0803
+Loss 0.0802
+Loss 0.0797
+Loss 0.0801
+Loss 0.0793
+Loss 0.0793
+Loss 0.0795
+Loss 0.0791
+Loss 0.0788
+Loss 0.0787
+Loss 0.0788
+Epoch 23 completed: Loss 0.0788 Accuracy 1.00
+Loss 0.0783
+Loss 0.0783
+Loss 0.0784
+Loss 0.0781
+Loss 0.0779
+Loss 0.0776
+Loss 0.0776
+Loss 0.0774
+Loss 0.0775
+Loss 0.0772
+Loss 0.0777
+Epoch 24 completed: Loss 0.0777 Accuracy 1.00
+Loss 0.0769
+Loss 0.0767
+Loss 0.0767
+Loss 0.0764
+Loss 0.0765
+Loss 0.0763
+Loss 0.0762
+Loss 0.0759
+Loss 0.0759
+Loss 0.0755
+Loss 0.0757
+Epoch 25 completed: Loss 0.0757 Accuracy 1.00
+Loss 0.0751
+Loss 0.0755
+Loss 0.0752
+Loss 0.0751
+Loss 0.0751
+Loss 0.0746
+Loss 0.0744
+Loss 0.0742
+Loss 0.0742
+Loss 0.0740
+Loss 0.0739
+Epoch 26 completed: Loss 0.0739 Accuracy 1.00
+Loss 0.0740
+Loss 0.0738
+Loss 0.0736
+Loss 0.0742
+Loss 0.0733
+Loss 0.0776
+Loss 0.0776
+Loss 0.0774
+Loss 0.0775
+Loss 0.0772
+Loss 0.0777
+Epoch 24 completed: Loss 0.0777 Accuracy 1.00
+Epoch 25 in progress:
+Loss 0.0769
+Loss 0.0767
+Loss 0.0767
+Loss 0.0764
+Loss 0.0765
+Loss 0.0763
+Loss 0.0762
+Loss 0.0759
+Loss 0.0759
+Loss 0.0755
+Loss 0.0757
+Epoch 25 completed: Loss 0.0757 Accuracy 1.00
+Epoch 26 in progress:
+Loss 0.0751
+Loss 0.0755
+Loss 0.0752
+Loss 0.0751
+Loss 0.0751
+Loss 0.0746
+Loss 0.0744
+Loss 0.0742
+Loss 0.0742
+Loss 0.0740
+Loss 0.0739
+Epoch 26 completed: Loss 0.0739 Accuracy 1.00
+Epoch 27 in progress:
+Loss 0.0740
+Loss 0.0738
+Loss 0.0736
+Loss 0.0742
+Loss 0.0733
+Loss 0.0737
+Loss 0.0734
+Loss 0.0735
+Loss 0.0732
+Loss 0.0729
+Loss 0.0733
+Epoch 27 completed: Loss 0.0733 Accuracy 1.00
+Epoch 28 in progress:
+Loss 0.0727
+Loss 0.0725
+Loss 0.0723
+Loss 0.0721
+Loss 0.0722
+Loss 0.0720
+Loss 0.0721
+Loss 0.0719
+Loss 0.0717
+Loss 0.0714
+Loss 0.0714
+Epoch 28 completed: Loss 0.0714 Accuracy 1.00
+Epoch 29 in progress:
+Loss 0.0714
+Loss 0.0715
+Loss 0.0712
+Loss 0.0712
+Loss 0.0712
+Loss 0.0712
+Loss 0.0707
+Loss 0.0710
+Loss 0.0706
+Loss 0.0707
+Loss 0.0704
+Epoch 29 completed: Loss 0.0704 Accuracy 1.00
+Epoch 30 in progress:
+Loss 0.0701
+Loss 0.0702
+Loss 0.0700
+Loss 0.0701
+Loss 0.0700
+Loss 0.0698
+Loss 0.0698
+Loss 0.0696
+Loss 0.0694
+Loss 0.0694
+Loss 0.0692
+Epoch 30 completed: Loss 0.0692 Accuracy 1.00
+Epoch 31 in progress:
+Loss 0.0691
+Loss 0.0695
+Loss 0.0693
+Loss 0.0690
+Loss 0.0689
+Loss 0.0687
+Loss 0.0689
+Loss 0.0691
+Loss 0.0688
+Loss 0.0684
+Loss 0.0684
+Epoch 31 completed: Loss 0.0684 Accuracy 1.00
+Epoch 32 in progress:
+Loss 0.0684
+Loss 0.0684
+Loss 0.0683
+Loss 0.0679
+Loss 0.0681
+Loss 0.0677
+Loss 0.0680
+Loss 0.0679
+Loss 0.0676
+Loss 0.0676
+Loss 0.0682
+Epoch 32 completed: Loss 0.0682 Accuracy 1.00
+Epoch 33 in progress:
+Loss 0.0673
+Loss 0.0674
+Loss 0.0677
+Loss 0.0671
+Loss 0.0670
+Loss 0.0665
+Loss 0.0671
+Loss 0.0670
+Loss 0.0668
+Loss 0.0668
+Loss 0.0667
+Epoch 33 completed: Loss 0.0667 Accuracy 1.00
+Epoch 34 in progress:
+Loss 0.0669
+Loss 0.0667
+Loss 0.0663
+Loss 0.0664
+Loss 0.0658
+Loss 0.0663
+Loss 0.0662
+Loss 0.0662
+Loss 0.0662
+Loss 0.0659
+Loss 0.0652
+Epoch 34 completed: Loss 0.0652 Accuracy 1.00
+Epoch 35 in progress:
+Loss 0.0658
+Loss 0.0658
+Loss 0.0658
+Loss 0.0657
+Loss 0.0653
+Loss 0.0650
+Loss 0.0654
+Loss 0.0653
+Loss 0.0651
+Loss 0.0651
+Loss 0.0654
+Epoch 35 completed: Loss 0.0654 Accuracy 1.00
+Epoch 36 in progress:
+Loss 0.0650
+Loss 0.0648
+Loss 0.0649
+Loss 0.0650
+Loss 0.0651
+Loss 0.0645
+Loss 0.0647
+Loss 0.0645
+Loss 0.0645
+Loss 0.0644
+Loss 0.0637
+Epoch 36 completed: Loss 0.0637 Accuracy 1.00
+Epoch 37 in progress:
+Loss 0.0645
+Loss 0.0644
+Loss 0.0644
+Loss 0.0643
+Loss 0.0641
+Loss 0.0638
+Loss 0.0640
+Loss 0.0636
+Loss 0.0639
+Loss 0.0636
+Loss 0.0638
+Epoch 37 completed: Loss 0.0638 Accuracy 1.00
+Epoch 38 in progress:
+Loss 0.0633
+Loss 0.0636
+Loss 0.0634
+Loss 0.0632
+Loss 0.0635
+Loss 0.0635
+Loss 0.0631
+Loss 0.0630
+Loss 0.0632
+Loss 0.0629
+Loss 0.0626
+Epoch 38 completed: Loss 0.0626 Accuracy 1.00
+Epoch 39 in progress:
+Loss 0.0629
+Loss 0.0630
+Loss 0.0628
+Loss 0.0630
+Loss 0.0626
+Loss 0.0626
+Loss 0.0627
+Loss 0.0628
+Loss 0.0626
+Loss 0.0623
+Loss 0.0630
+Epoch 39 completed: Loss 0.0630 Accuracy 1.00
+Epoch 40 in progress:
+Loss 0.0627
+Loss 0.0625
+Loss 0.0621
+Loss 0.0623
+Loss 0.0618
+Loss 0.0622
+Loss 0.0621
+Loss 0.0621
+Loss 0.0617
+Loss 0.0618
+Loss 0.0614
+Epoch 40 completed: Loss 0.0614 Accuracy 1.00
+Epoch 41 in progress:
+Loss 0.0620
+Loss 0.0616
+Loss 0.0617
+Loss 0.0618
+Loss 0.0613
+Loss 0.0616
+Loss 0.0613
+Loss 0.0616
+Loss 0.0615
+Loss 0.0612
+Loss 0.0615
+Epoch 41 completed: Loss 0.0615 Accuracy 1.00
+Epoch 42 in progress:
+Loss 0.0614
+Loss 0.0616
+Loss 0.0611
+Loss 0.0612
+Loss 0.0609
+Loss 0.0609
+Loss 0.0612
+Loss 0.0609
+Loss 0.0609
+Loss 0.0607
+Loss 0.0608
+Epoch 42 completed: Loss 0.0608 Accuracy 1.00
+Epoch 43 in progress:
+Loss 0.0608
+Loss 0.0606
+Loss 0.0607
+Loss 0.0605
+Loss 0.0601
+Loss 0.0606
+Loss 0.0605
+Loss 0.0602
+Loss 0.0605
+Loss 0.0606
+Loss 0.0606
+Epoch 43 completed: Loss 0.0606 Accuracy 1.00
+Epoch 44 in progress:
+Loss 0.0602
+Loss 0.0599
+Loss 0.0599
+Loss 0.0601
+Loss 0.0601
+Loss 0.0599
+Loss 0.0596
+Loss 0.0600
+Loss 0.0598
+Loss 0.0596
+Loss 0.0595
+Epoch 44 completed: Loss 0.0595 Accuracy 1.00
+Epoch 45 in progress:
+Loss 0.0600
+Loss 0.0594
+Loss 0.0597
+Loss 0.0597
+Loss 0.0593
+Loss 0.0594
+Loss 0.0593
+Loss 0.0594
+Loss 0.0592
+Loss 0.0588
+Loss 0.0595
+Epoch 45 completed: Loss 0.0595 Accuracy 1.00
+Epoch 46 in progress:
+Loss 0.0588
+Loss 0.0593
+Loss 0.0589
+Loss 0.0590
+Loss 0.0595
+Loss 0.0591
+Loss 0.0588
+Loss 0.0590
+Loss 0.0590
+Loss 0.0589
+Loss 0.0587
+Epoch 46 completed: Loss 0.0587 Accuracy 1.00
+Epoch 47 in progress:
+Loss 0.0587
+Loss 0.0588
+Loss 0.0589
+Loss 0.0586
+Loss 0.0585
+Loss 0.0583
+Loss 0.0585
+Loss 0.0587
+Loss 0.0584
+Loss 0.0583
+Loss 0.0583
+Epoch 47 completed: Loss 0.0583 Accuracy 1.00
+Epoch 48 in progress:
+Loss 0.0582
+Loss 0.0582
+Loss 0.0584
+Loss 0.0582
+Loss 0.0585
+Loss 0.0580
+Loss 0.0579
+Loss 0.0584
+Loss 0.0581
+Loss 0.0578
+Loss 0.0583
+Epoch 48 completed: Loss 0.0583 Accuracy 1.00
+Epoch 49 in progress:
+Loss 0.0577
+Loss 0.0581
+Loss 0.0578
+Loss 0.0576
+Loss 0.0579
+Loss 0.0577
+Loss 0.0578
+Loss 0.0579
+Loss 0.0578
+Loss 0.0574
+Loss 0.0574
+Epoch 49 completed: Loss 0.0574 Accuracy 1.00
+Epoch 50 in progress:
+Loss 0.0573
+Loss 0.0579
+Loss 0.0575
+Loss 0.0573
+Loss 0.0574
+Loss 0.0576
+Loss 0.0574
+Loss 0.0573
+Loss 0.0570
+Loss 0.0573
+Loss 0.0576
+Epoch 50 completed: Loss 0.0576 Accuracy 1.00
+Epoch 51 in progress:
+Loss 0.0572
+Loss 0.0572
+Loss 0.0571
+Loss 0.0571
+Loss 0.0568
+Loss 0.0570
+Loss 0.0569
+Loss 0.0571
+Loss 0.0568
+Loss 0.0572
+Loss 0.0572
+Epoch 51 completed: Loss 0.0572 Accuracy 1.00
+Epoch 52 in progress:
+Loss 0.0569
+Loss 0.0567
+Loss 0.0565
+Loss 0.0568
+Loss 0.0573
+Loss 0.0567
+Loss 0.0567
+Loss 0.0566
+Loss 0.0566
+Loss 0.0567
+Loss 0.0569
+Epoch 52 completed: Loss 0.0569 Accuracy 1.00
+Epoch 53 in progress:
+Loss 0.0565
+Loss 0.0567
+Loss 0.0564
+Loss 0.0564
+Loss 0.0564
+Loss 0.0565
+Loss 0.0566
+Loss 0.0562
+Loss 0.0564
+Loss 0.0564
+Loss 0.0562
+Epoch 53 completed: Loss 0.0562 Accuracy 1.00
+Epoch 54 in progress:
+Loss 0.0564
+Loss 0.0563
+Loss 0.0563
+Loss 0.0558
+Loss 0.0564
+Loss 0.0559
+Loss 0.0558
+Loss 0.0560
+Loss 0.0559
+Loss 0.0559
+Loss 0.0560
+Epoch 54 completed: Loss 0.0560 Accuracy 1.00
+Epoch 55 in progress:
+Loss 0.0560
+Loss 0.0558
+Loss 0.0555
+Loss 0.0562
+Loss 0.0557
+Loss 0.0555
+Loss 0.0554
+Loss 0.0555
+Loss 0.0558
+Loss 0.0556
+Loss 0.0563
+Epoch 55 completed: Loss 0.0563 Accuracy 1.00
+Epoch 56 in progress:
+Loss 0.0553
+Loss 0.0555
+Loss 0.0554
+Loss 0.0553
+Loss 0.0552
+Loss 0.0553
+Loss 0.0553
+Loss 0.0550
+Loss 0.0553
+Loss 0.0553
+Loss 0.0558
+Epoch 56 completed: Loss 0.0558 Accuracy 1.00
+Epoch 57 in progress:
+Loss 0.0552
+Loss 0.0553
+Loss 0.0551
+Loss 0.0551
+Loss 0.0551
+Loss 0.0552
+Loss 0.0553
+Loss 0.0551
+Loss 0.0549
+Loss 0.0552
+Loss 0.0550
+Epoch 57 completed: Loss 0.0550 Accuracy 1.00
+Epoch 58 in progress:
+Loss 0.0548
+Loss 0.0548
+Loss 0.0547
+Loss 0.0547
+Loss 0.0547
+Loss 0.0545
+Loss 0.0548
+Loss 0.0548
+Loss 0.0547
+Loss 0.0545
+Loss 0.0548
+Epoch 58 completed: Loss 0.0548 Accuracy 1.00
+Epoch 59 in progress:
+Loss 0.0549
+Loss 0.0546
+Loss 0.0547
+Loss 0.0546
+Loss 0.0546
+Loss 0.0546
+Loss 0.0545
+Loss 0.0542
+Loss 0.0544
+Loss 0.0544
+Loss 0.0550
+Epoch 59 completed: Loss 0.0550 Accuracy 1.00
+Epoch 60 in progress:
+Loss 0.0543
+Loss 0.0545
+Loss 0.0543
+Loss 0.0544
+Loss 0.0542
+Loss 0.0544
+Loss 0.0539
+Loss 0.0541
+Loss 0.0540
+Loss 0.0542
+Loss 0.0541
+Epoch 60 completed: Loss 0.0541 Accuracy 1.00
+Epoch 61 in progress:
+Loss 0.0544
+Loss 0.0540
+Loss 0.0539
+Loss 0.0540
+Loss 0.0542
+Loss 0.0539
+Loss 0.0539
+Loss 0.0541
+Loss 0.0541
+Loss 0.0542
+Loss 0.0544
+Epoch 61 completed: Loss 0.0544 Accuracy 1.00
+Epoch 62 in progress:
+Loss 0.0536
+Loss 0.0538
+Loss 0.0537
+Loss 0.0536
+Loss 0.0539
+Loss 0.0537
+Loss 0.0538
+Loss 0.0539
+Loss 0.0537
+Loss 0.0537
+Loss 0.0537
+Epoch 62 completed: Loss 0.0537 Accuracy 1.00
+Epoch 63 in progress:
+Loss 0.0539
+Loss 0.0536
+Loss 0.0538
+Loss 0.0536
+Loss 0.0535
+Loss 0.0534
+Loss 0.0533
+Loss 0.0534
+Loss 0.0536
+Loss 0.0534
+Loss 0.0541
+Epoch 63 completed: Loss 0.0541 Accuracy 1.00
+Epoch 64 in progress:
+Loss 0.0533
+Loss 0.0536
+Loss 0.0535
+Loss 0.0534
+Loss 0.0533
+Loss 0.0530
+Loss 0.0530
+Loss 0.0532
+Loss 0.0532
+Loss 0.0532
+Loss 0.0536
+Epoch 64 completed: Loss 0.0536 Accuracy 1.00
+Epoch 65 in progress:
+Loss 0.0531
+Loss 0.0531
+Loss 0.0532
+Loss 0.0531
+Loss 0.0737
+Loss 0.0734
+Loss 0.0735
+Loss 0.0732
+Loss 0.0729
+Loss 0.0733
+Epoch 27 completed: Loss 0.0733 Accuracy 1.00
+Loss 0.0727
+Loss 0.0725
+Loss 0.0723
+Loss 0.0721
+Loss 0.0722
+Loss 0.0720
+Loss 0.0721
+Loss 0.0719
+Loss 0.0717
+Loss 0.0714
+Loss 0.0714
+Epoch 28 completed: Loss 0.0714 Accuracy 1.00
+Loss 0.0714
+Loss 0.0715
+Loss 0.0712
+Loss 0.0712
+Loss 0.0712
+Loss 0.0712
+Loss 0.0707
+Loss 0.0710
+Loss 0.0706
+Loss 0.0707
+Loss 0.0704
+Epoch 29 completed: Loss 0.0704 Accuracy 1.00
+Loss 0.0701
+Loss 0.0702
+Loss 0.0700
+Loss 0.0701
+Loss 0.0700
+Loss 0.0698
+Loss 0.0698
+Loss 0.0696
+Loss 0.0694
+Loss 0.0694
+Loss 0.0692
+Epoch 30 completed: Loss 0.0692 Accuracy 1.00
+Loss 0.0691
+Loss 0.0695
+Loss 0.0693
+Loss 0.0690
+Loss 0.0689
+Loss 0.0687
+Loss 0.0689
+Loss 0.0691
+Loss 0.0688
+Loss 0.0684
+Loss 0.0684
+Epoch 31 completed: Loss 0.0684 Accuracy 1.00
+Loss 0.0684
+Loss 0.0684
+Loss 0.0683
+Loss 0.0679
+Loss 0.0681
+Loss 0.0677
+Loss 0.0680
+Loss 0.0679
+Loss 0.0676
+Loss 0.0676
+Loss 0.0682
+Epoch 32 completed: Loss 0.0682 Accuracy 1.00
+Loss 0.0673
+Loss 0.0674
+Loss 0.0677
+Loss 0.0671
+Loss 0.0670
+Loss 0.0665
+Loss 0.0671
+Loss 0.0670
+Loss 0.0668
+Loss 0.0668
+Loss 0.0667
+Epoch 33 completed: Loss 0.0667 Accuracy 1.00
+Loss 0.0669
+Loss 0.0667
+Loss 0.0663
+Loss 0.0664
+Loss 0.0658
+Loss 0.0663
+Loss 0.0662
+Loss 0.0662
+Loss 0.0662
+Loss 0.0659
+Loss 0.0652
+Epoch 34 completed: Loss 0.0652 Accuracy 1.00
+Loss 0.0658
+Loss 0.0658
+Loss 0.0658
+Loss 0.0657
+Loss 0.0653
+Loss 0.0650
+Loss 0.0654
+Loss 0.0653
+Loss 0.0651
+Loss 0.0651
+Loss 0.0654
+Epoch 35 completed: Loss 0.0654 Accuracy 1.00
+Loss 0.0650
+Loss 0.0648
+Loss 0.0649
+Loss 0.0650
+Loss 0.0651
+Loss 0.0645
+Loss 0.0647
+Loss 0.0645
+Loss 0.0645
+Loss 0.0644
+Loss 0.0637
+Epoch 36 completed: Loss 0.0637 Accuracy 1.00
+Loss 0.0645
+Loss 0.0644
+Loss 0.0644
+Loss 0.0643
+Loss 0.0641
+Loss 0.0638
+Loss 0.0640
+Loss 0.0636
+Loss 0.0639
+Loss 0.0636
+Loss 0.0638
+Epoch 37 completed: Loss 0.0638 Accuracy 1.00
+Loss 0.0633
+Loss 0.0636
+Loss 0.0634
+Loss 0.0632
+Loss 0.0635
+Loss 0.0635
+Loss 0.0631
+Loss 0.0630
+Loss 0.0632
+Loss 0.0629
+Loss 0.0626
+Epoch 38 completed: Loss 0.0626 Accuracy 1.00
+Loss 0.0629
+Loss 0.0630
+Loss 0.0628
+Loss 0.0630
+Loss 0.0626
+Loss 0.0626
+Loss 0.0627
+Loss 0.0628
+Loss 0.0626
+Loss 0.0623
+Loss 0.0630
+Epoch 39 completed: Loss 0.0630 Accuracy 1.00
+Loss 0.0627
+Loss 0.0625
+Loss 0.0621
+Loss 0.0623
+Loss 0.0618
+Loss 0.0622
+Loss 0.0621
+Loss 0.0621
+Loss 0.0617
+Loss 0.0618
+Loss 0.0614
+Epoch 40 completed: Loss 0.0614 Accuracy 1.00
+Loss 0.0620
+Loss 0.0616
+Loss 0.0617
+Loss 0.0618
+Loss 0.0613
+Loss 0.0616
+Loss 0.0613
+Loss 0.0616
+Loss 0.0615
+Loss 0.0612
+Loss 0.0615
+Epoch 41 completed: Loss 0.0615 Accuracy 1.00
+Loss 0.0614
+Loss 0.0616
+Loss 0.0611
+Loss 0.0612
+Loss 0.0609
+Loss 0.0609
+Loss 0.0612
+Loss 0.0609
+Loss 0.0609
+Loss 0.0607
+Loss 0.0608
+Epoch 42 completed: Loss 0.0608 Accuracy 1.00
+Loss 0.0608
+Loss 0.0606
+Loss 0.0607
+Loss 0.0605
+Loss 0.0601
+Loss 0.0606
+Loss 0.0605
+Loss 0.0602
+Loss 0.0605
+Loss 0.0606
+Loss 0.0606
+Epoch 43 completed: Loss 0.0606 Accuracy 1.00
+Loss 0.0602
+Loss 0.0599
+Loss 0.0599
+Loss 0.0601
+Loss 0.0601
+Loss 0.0599
+Loss 0.0596
+Loss 0.0600
+Loss 0.0598
+Loss 0.0596
+Loss 0.0595
+Epoch 44 completed: Loss 0.0595 Accuracy 1.00
+Loss 0.0600
+Loss 0.0594
+Loss 0.0597
+Loss 0.0597
+Loss 0.0593
+Loss 0.0594
+Loss 0.0593
+Loss 0.0594
+Loss 0.0592
+Loss 0.0588
+Loss 0.0595
+Epoch 45 completed: Loss 0.0595 Accuracy 1.00
+Loss 0.0588
+Loss 0.0593
+Loss 0.0589
+Loss 0.0590
+Loss 0.0595
+Loss 0.0591
+Loss 0.0588
+Loss 0.0590
+Loss 0.0590
+Loss 0.0589
+Loss 0.0587
+Epoch 46 completed: Loss 0.0587 Accuracy 1.00
+Loss 0.0587
+Loss 0.0588
+Loss 0.0589
+Loss 0.0586
+Loss 0.0585
+Loss 0.0583
+Loss 0.0585
+Loss 0.0587
+Loss 0.0584
+Loss 0.0583
+Loss 0.0583
+Epoch 47 completed: Loss 0.0583 Accuracy 1.00
+Loss 0.0582
+Loss 0.0582
+Loss 0.0584
+Loss 0.0582
+Loss 0.0585
+Loss 0.0580
+Loss 0.0579
+Loss 0.0584
+Loss 0.0581
+Loss 0.0578
+Loss 0.0583
+Epoch 48 completed: Loss 0.0583 Accuracy 1.00
+Loss 0.0577
+Loss 0.0581
+Loss 0.0578
+Loss 0.0576
+Loss 0.0579
+Loss 0.0577
+Loss 0.0578
+Loss 0.0579
+Loss 0.0578
+Loss 0.0574
+Loss 0.0574
+Epoch 49 completed: Loss 0.0574 Accuracy 1.00
+Loss 0.0573
+Loss 0.0579
+Loss 0.0575
+Loss 0.0573
+Loss 0.0574
+Loss 0.0576
+Loss 0.0574
+Loss 0.0573
+Loss 0.0570
+Loss 0.0573
+Loss 0.0576
+Epoch 50 completed: Loss 0.0576 Accuracy 1.00
+Loss 0.0572
+Loss 0.0572
+Loss 0.0571
+Loss 0.0571
+Loss 0.0568
+Loss 0.0570
+Loss 0.0569
+Loss 0.0571
+Loss 0.0568
+Loss 0.0572
+Loss 0.0572
+Epoch 51 completed: Loss 0.0572 Accuracy 1.00
+Loss 0.0569
+Loss 0.0567
+Loss 0.0565
+Loss 0.0568
+Loss 0.0573
+Loss 0.0567
+Loss 0.0567
+Loss 0.0566
+Loss 0.0566
+Loss 0.0567
+Loss 0.0569
+Epoch 52 completed: Loss 0.0569 Accuracy 1.00
+Loss 0.0565
+Loss 0.0567
+Loss 0.0564
+Loss 0.0564
+Loss 0.0564
+Loss 0.0565
+Loss 0.0566
+Loss 0.0562
+Loss 0.0564
+Loss 0.0564
+Loss 0.0562
+Epoch 53 completed: Loss 0.0562 Accuracy 1.00
+Loss 0.0564
+Loss 0.0563
+Loss 0.0563
+Loss 0.0558
+Loss 0.0564
+Loss 0.0559
+Loss 0.0558
+Loss 0.0560
+Loss 0.0559
+Loss 0.0559
+Loss 0.0560
+Epoch 54 completed: Loss 0.0560 Accuracy 1.00
+Loss 0.0560
+Loss 0.0558
+Loss 0.0555
+Loss 0.0562
+Loss 0.0557
+Loss 0.0555
+Loss 0.0554
+Loss 0.0555
+Loss 0.0558
+Loss 0.0556
+Loss 0.0563
+Epoch 55 completed: Loss 0.0563 Accuracy 1.00
+Loss 0.0553
+Loss 0.0555
+Loss 0.0554
+Loss 0.0553
+Loss 0.0552
+Loss 0.0553
+Loss 0.0553
+Loss 0.0550
+Loss 0.0553
+Loss 0.0553
+Loss 0.0558
+Epoch 56 completed: Loss 0.0558 Accuracy 1.00
+Loss 0.0552
+Loss 0.0553
+Loss 0.0551
+Loss 0.0551
+Loss 0.0551
+Loss 0.0552
+Loss 0.0553
+Loss 0.0551
+Loss 0.0549
+Loss 0.0552
+Loss 0.0550
+Epoch 57 completed: Loss 0.0550 Accuracy 1.00
+Loss 0.0548
+Loss 0.0548
+Loss 0.0547
+Loss 0.0547
+Loss 0.0547
+Loss 0.0545
+Loss 0.0548
+Loss 0.0548
+Loss 0.0547
+Loss 0.0545
+Loss 0.0548
+Epoch 58 completed: Loss 0.0548 Accuracy 1.00
+Loss 0.0549
+Loss 0.0546
+Loss 0.0547
+Loss 0.0546
+Loss 0.0546
+Loss 0.0546
+Loss 0.0545
+Loss 0.0542
+Loss 0.0544
+Loss 0.0544
+Loss 0.0550
+Epoch 59 completed: Loss 0.0550 Accuracy 1.00
+Loss 0.0543
+Loss 0.0545
+Loss 0.0543
+Loss 0.0544
+Loss 0.0542
+Loss 0.0544
+Loss 0.0539
+Loss 0.0541
+Loss 0.0540
+Loss 0.0542
+Loss 0.0541
+Epoch 60 completed: Loss 0.0541 Accuracy 1.00
+Loss 0.0544
+Loss 0.0540
+Loss 0.0539
+Loss 0.0540
+Loss 0.0542
+Loss 0.0539
+Loss 0.0539
+Loss 0.0541
+Loss 0.0541
+Loss 0.0542
+Loss 0.0544
+Epoch 61 completed: Loss 0.0544 Accuracy 1.00
+Loss 0.0536
+Loss 0.0538
+Loss 0.0537
+Loss 0.0536
+Loss 0.0539
+Loss 0.0537
+Loss 0.0538
+Loss 0.0539
+Loss 0.0537
+Loss 0.0537
+Loss 0.0537
+Epoch 62 completed: Loss 0.0537 Accuracy 1.00
+Loss 0.0539
+Loss 0.0536
+Loss 0.0538
+Loss 0.0536
+Loss 0.0535
+Loss 0.0534
+Loss 0.0533
+Loss 0.0534
+Loss 0.0536
+Loss 0.0534
+Loss 0.0541
+Epoch 63 completed: Loss 0.0541 Accuracy 1.00
+Loss 0.0533
+Loss 0.0536
+Loss 0.0535
+Loss 0.0534
+Loss 0.0533
+Loss 0.0530
+Loss 0.0530
+Loss 0.0532
+Loss 0.0532
+Loss 0.0532
+Loss 0.0536
+Epoch 64 completed: Loss 0.0536 Accuracy 1.00
+Loss 0.0531
+Loss 0.0531
+Loss 0.0532
+Loss 0.0531
+Loss 0.0528
+Loss 0.0530
+Loss 0.0533
+Loss 0.0533
+Loss 0.0530
+Loss 0.0530
+Loss 0.0538
+Epoch 65 completed: Loss 0.0538 Accuracy 1.00
+Loss 0.0529
+Loss 0.0528
+Loss 0.0529
+Loss 0.0526
+Loss 0.0529
+Loss 0.0528
+Loss 0.0528
+Loss 0.0529
+Loss 0.0529
+Loss 0.0528
+Loss 0.0526
+Epoch 66 completed: Loss 0.0526 Accuracy 1.00
+Loss 0.0528
+Loss 0.0527
+Loss 0.0529
+Loss 0.0525
+Loss 0.0524
+Loss 0.0524
+Loss 0.0528
+Loss 0.0526
+Loss 0.0527
+Loss 0.0529
+Loss 0.0526
+Epoch 67 completed: Loss 0.0526 Accuracy 1.00
+Loss 0.0522
+Loss 0.0526
+Loss 0.0526
+Loss 0.0526
+Loss 0.0523
+Loss 0.0525
+Loss 0.0523
+Loss 0.0523
+Loss 0.0524
+Loss 0.0526
+Loss 0.0523
+Epoch 68 completed: Loss 0.0523 Accuracy 1.00
+Loss 0.0523
+Loss 0.0525
+Loss 0.0520
+Loss 0.0522
+Loss 0.0524
+Loss 0.0522
+Loss 0.0521
+Loss 0.0523
+Loss 0.0521
+Loss 0.0520
+Loss 0.0526
+Epoch 69 completed: Loss 0.0526 Accuracy 1.00
+Loss 0.0521
+Loss 0.0522
+Loss 0.0522
+Loss 0.0520
+Loss 0.0521
+Loss 0.0518
+Loss 0.0522
+Loss 0.0521
+Loss 0.0521
+Loss 0.0522
+Loss 0.0523
+Epoch 70 completed: Loss 0.0523 Accuracy 1.00
+Loss 0.0520
+Loss 0.0518
+Loss 0.0519
+Loss 0.0520
+Loss 0.0516
+Loss 0.0517
+Loss 0.0518
+Loss 0.0519
+Loss 0.0519
+Loss 0.0515
+Loss 0.0520
+Epoch 71 completed: Loss 0.0520 Accuracy 1.00
+Loss 0.0518
+Loss 0.0516
+Loss 0.0516
+Loss 0.0518
+Loss 0.0515
+Loss 0.0517
+Loss 0.0516
+Loss 0.0516
+Loss 0.0516
+Loss 0.0512
+Loss 0.0514
+Epoch 72 completed: Loss 0.0514 Accuracy 1.00
+Loss 0.0517
+Loss 0.0515
+Loss 0.0515
+Loss 0.0517
+Loss 0.0512
+INFO:root:====Communication Stats====
+INFO:root:Rounds: 125704
+INFO:root:Bytes: 2995360000
+INFO:root:Communication time: 9779.55647459696
+Loss 0.0528
+Loss 0.0530
+Loss 0.0533
+Loss 0.0533
+Loss 0.0530
+Loss 0.0530
+Loss 0.0538
+Epoch 65 completed: Loss 0.0538 Accuracy 1.00
+Epoch 66 in progress:
+Loss 0.0529
+Loss 0.0528
+Loss 0.0529
+Loss 0.0526
+Loss 0.0529
+Loss 0.0528
+Loss 0.0528
+Loss 0.0529
+Loss 0.0529
+Loss 0.0528
+Loss 0.0526
+Epoch 66 completed: Loss 0.0526 Accuracy 1.00
+Epoch 67 in progress:
+Loss 0.0528
+Loss 0.0527
+Loss 0.0529
+Loss 0.0525
+Loss 0.0524
+Loss 0.0524
+Loss 0.0528
+Loss 0.0526
+Loss 0.0527
+Loss 0.0529
+Loss 0.0526
+Epoch 67 completed: Loss 0.0526 Accuracy 1.00
+Epoch 68 in progress:
+Loss 0.0522
+Loss 0.0526
+Loss 0.0526
+Loss 0.0526
+Loss 0.0523
+Loss 0.0525
+Loss 0.0523
+Loss 0.0523
+Loss 0.0524
+Loss 0.0526
+Loss 0.0523
+Epoch 68 completed: Loss 0.0523 Accuracy 1.00
+Epoch 69 in progress:
+Loss 0.0523
+Loss 0.0525
+Loss 0.0520
+Loss 0.0522
+Loss 0.0524
+Loss 0.0522
+Loss 0.0521
+Loss 0.0523
+Loss 0.0521
+Loss 0.0520
+Loss 0.0526
+Epoch 69 completed: Loss 0.0526 Accuracy 1.00
+Epoch 70 in progress:
+Loss 0.0521
+Loss 0.0522
+Loss 0.0522
+Loss 0.0520
+Loss 0.0521
+Loss 0.0518
+Loss 0.0522
+Loss 0.0521
+Loss 0.0521
+Loss 0.0522
+Loss 0.0523
+Epoch 70 completed: Loss 0.0523 Accuracy 1.00
+Epoch 71 in progress:
+Loss 0.0520
+Loss 0.0518
+Loss 0.0519
+Loss 0.0520
+Loss 0.0516
+Loss 0.0517
+Loss 0.0518
+Loss 0.0519
+Loss 0.0519
+Loss 0.0515
+Loss 0.0520
+Epoch 71 completed: Loss 0.0520 Accuracy 1.00
+Epoch 72 in progress:
+Loss 0.0518
+Loss 0.0516
+Loss 0.0516
+Loss 0.0518
+Loss 0.0515
+Loss 0.0517
+Loss 0.0516
+Loss 0.0516
+Loss 0.0516
+Loss 0.0512
+Loss 0.0514
+Epoch 72 completed: Loss 0.0514 Accuracy 1.00
+Epoch 73 in progress:
+Loss 0.0517
+Loss 0.0515
+Loss 0.0515
+Loss 0.0517
+Loss 0.0512
+Loss 0.0515
+Loss 0.0511
+Loss 0.0512
+Loss 0.0516
+Loss 0.0513
+Loss 0.0509
+Epoch 73 completed: Loss 0.0509 Accuracy 1.00
+Epoch 74 in progress:
+Loss 0.0514
+Loss 0.0515
+Loss 0.0515
+Loss 0.0511
+Loss 0.0511
+Loss 0.0512
+Loss 0.0513
+Loss 0.0510
+Loss 0.0513
+Loss 0.0513
+Loss 0.0509
+Epoch 74 completed: Loss 0.0509 Accuracy 1.00
+Epoch 75 in progress:
+Loss 0.0513
+Loss 0.0515
+Loss 0.0513
+Loss 0.0510
+Loss 0.0512
+Loss 0.0514
+Loss 0.0511
+Loss 0.0512
+Loss 0.0508
+Loss 0.0513
+Loss 0.0506
+Epoch 75 completed: Loss 0.0506 Accuracy 1.00
+Epoch 76 in progress:
+Loss 0.0511
+Loss 0.0509
+Loss 0.0510
+Loss 0.0510
+Loss 0.0511
+Loss 0.0507
+Loss 0.0507
+Loss 0.0510
+Loss 0.0510
+Loss 0.0511
+Loss 0.0504
+Epoch 76 completed: Loss 0.0504 Accuracy 1.00
+Epoch 77 in progress:
+Loss 0.0508
+Loss 0.0509
+Loss 0.0509
+Loss 0.0511
+Loss 0.0512
+Loss 0.0509
+Loss 0.0509
+Loss 0.0503
+Loss 0.0506
+Loss 0.0506
+Loss 0.0513
+Epoch 77 completed: Loss 0.0513 Accuracy 1.00
+Epoch 78 in progress:
+Loss 0.0508
+Loss 0.0508
+Loss 0.0509
+Loss 0.0507
+Loss 0.0508
+Loss 0.0509
+Loss 0.0509
+Loss 0.0513
+Loss 0.0508
+Loss 0.0509
+Loss 0.0499
+Epoch 78 completed: Loss 0.0499 Accuracy 1.00
+Epoch 79 in progress:
+Loss 0.0506
+Loss 0.0508
+Loss 0.0505
+Loss 0.0504
+Loss 0.0508
+Loss 0.0503
+Loss 0.0503
+Loss 0.0507
+Loss 0.0504
+Loss 0.0503
+Loss 0.0504
+Epoch 79 completed: Loss 0.0504 Accuracy 1.00
+Epoch 80 in progress:
+Loss 0.0506
+Loss 0.0503
+Loss 0.0503
+Loss 0.0505
+Loss 0.0506
+Loss 0.0503
+Loss 0.0505
+Loss 0.0504
+Loss 0.0504
+Loss 0.0503
+Loss 0.0511
+Epoch 80 completed: Loss 0.0511 Accuracy 1.00
+Epoch 81 in progress:
+Loss 0.0502
+Loss 0.0504
+Loss 0.0502
+Loss 0.0500
+Loss 0.0504
+Loss 0.0505
+Loss 0.0499
+Loss 0.0504
+Loss 0.0501
+Loss 0.0503
+Loss 0.0496
+Epoch 81 completed: Loss 0.0496 Accuracy 1.00
+Epoch 82 in progress:
+Loss 0.0502
+Loss 0.0503
+Loss 0.0503
+Loss 0.0501
+Loss 0.0498
+Loss 0.0498
+Loss 0.0501
+Loss 0.0502
+Loss 0.0498
+Loss 0.0501
+Loss 0.0504
+Epoch 82 completed: Loss 0.0504 Accuracy 1.00
+Epoch 83 in progress:
+Loss 0.0501
+Loss 0.0502
+Loss 0.0499
+Loss 0.0499
+Loss 0.0497
+Loss 0.0501
+Loss 0.0499
+Loss 0.0497
+Loss 0.0499
+Loss 0.0500
+Loss 0.0497
+Epoch 83 completed: Loss 0.0497 Accuracy 1.00
+Epoch 84 in progress:
+Loss 0.0501
+Loss 0.0499
+Loss 0.0500
+Loss 0.0498
+Loss 0.0499
+Loss 0.0498
+Loss 0.0499
+Loss 0.0497
+Loss 0.0500
+Loss 0.0500
+Loss 0.0497
+Epoch 84 completed: Loss 0.0497 Accuracy 1.00
+Epoch 85 in progress:
+Loss 0.0498
+Loss 0.0497
+Loss 0.0496
+Loss 0.0494
+Loss 0.0500
+Loss 0.0501
+Loss 0.0499
+Loss 0.0497
+Loss 0.0497
+Loss 0.0492
+Loss 0.0493
+Epoch 85 completed: Loss 0.0493 Accuracy 1.00
+Epoch 86 in progress:
+Loss 0.0496
+Loss 0.0495
+Loss 0.0493
+Loss 0.0494
+Loss 0.0494
+Loss 0.0497
+Loss 0.0496
+Loss 0.0494
+Loss 0.0492
+Loss 0.0494
+Loss 0.0502
+Epoch 86 completed: Loss 0.0502 Accuracy 1.00
+Epoch 87 in progress:
+Loss 0.0499
+Loss 0.0497
+Loss 0.0496
+Loss 0.0493
+Loss 0.0497
+Loss 0.0495
+Loss 0.0495
+Loss 0.0496
+Loss 0.0496
+Loss 0.0497
+Loss 0.0497
+Epoch 87 completed: Loss 0.0497 Accuracy 1.00
+Epoch 88 in progress:
+Loss 0.0495
+Loss 0.0490
+Loss 0.0493
+Loss 0.0491
+Loss 0.0495
+Loss 0.0494
+Loss 0.0492
+Loss 0.0496
+Loss 0.0493
+Loss 0.0493
+Loss 0.0495
+Epoch 88 completed: Loss 0.0495 Accuracy 1.00
+Epoch 89 in progress:
+Loss 0.0495
+Loss 0.0493
+Loss 0.0490
+Loss 0.0489
+Loss 0.0491
+Loss 0.0491
+Loss 0.0493
+Loss 0.0488
+Loss 0.0491
+Loss 0.0491
+Loss 0.0493
+Epoch 89 completed: Loss 0.0493 Accuracy 1.00
+Epoch 90 in progress:
+Loss 0.0490
+Loss 0.0491
+Loss 0.0494
+Loss 0.0493
+Loss 0.0491
+Loss 0.0491
+Loss 0.0491
+Loss 0.0491
+Loss 0.0494
+Loss 0.0490
+Loss 0.0480
+Epoch 90 completed: Loss 0.0480 Accuracy 1.00
+Epoch 91 in progress:
+Loss 0.0486
+Loss 0.0490
+Loss 0.0491
+Loss 0.0488
+Loss 0.0492
+Loss 0.0489
+Loss 0.0490
+Loss 0.0487
+Loss 0.0490
+Loss 0.0489
+Loss 0.0484
+Epoch 91 completed: Loss 0.0484 Accuracy 1.00
+Epoch 92 in progress:
+Loss 0.0490
+Loss 0.0490
+Loss 0.0488
+Loss 0.0490
+Loss 0.0488
+Loss 0.0489
+Loss 0.0488
+Loss 0.0490
+Loss 0.0490
+Loss 0.0488
+Loss 0.0488
+Epoch 92 completed: Loss 0.0488 Accuracy 1.00
+Epoch 93 in progress:
+Loss 0.0489
+Loss 0.0488
+Loss 0.0490
+Loss 0.0488
+Loss 0.0484
+Loss 0.0489
+Loss 0.0488
+Loss 0.0484
+Loss 0.0487
+Loss 0.0489
+Loss 0.0491
+Epoch 93 completed: Loss 0.0491 Accuracy 1.00
+Epoch 94 in progress:
+Loss 0.0489
+Loss 0.0488
+Loss 0.0487
+Loss 0.0487
+Loss 0.0490
+Loss 0.0485
+Loss 0.0489
+Loss 0.0490
+Loss 0.0487
+Loss 0.0485
+Loss 0.0484
+Epoch 94 completed: Loss 0.0484 Accuracy 1.00
+Epoch 95 in progress:
+Loss 0.0484
+Loss 0.0486
+Loss 0.0485
+Loss 0.0487
+Loss 0.0485
+Loss 0.0483
+Loss 0.0485
+Loss 0.0487
+Loss 0.0484
+Loss 0.0487
+Loss 0.0491
+Epoch 95 completed: Loss 0.0491 Accuracy 1.00
+Epoch 96 in progress:
+Loss 0.0484
+Loss 0.0485
+Loss 0.0484
+Loss 0.0486
+Loss 0.0485
+Loss 0.0483
+Loss 0.0486
+Loss 0.0484
+Loss 0.0484
+Loss 0.0484
+Loss 0.0487
+Epoch 96 completed: Loss 0.0487 Accuracy 1.00
+Epoch 97 in progress:
+Loss 0.0484
+Loss 0.0483
+Loss 0.0484
+Loss 0.0485
+Loss 0.0484
+Loss 0.0482
+Loss 0.0484
+Loss 0.0484
+Loss 0.0481
+Loss 0.0484
+Loss 0.0482
+Epoch 97 completed: Loss 0.0482 Accuracy 1.00
+Epoch 98 in progress:
+Loss 0.0486
+Loss 0.0484
+Loss 0.0483
+Loss 0.0485
+Loss 0.0481
+Loss 0.0485
+Loss 0.0485
+Loss 0.0484
+Loss 0.0482
+Loss 0.0480
+Loss 0.0483
+Epoch 98 completed: Loss 0.0483 Accuracy 1.00
+Epoch 99 in progress:
+Loss 0.0483
+Loss 0.0481
+Loss 0.0483
+Loss 0.0480
+Loss 0.0484
+Loss 0.0484
+Loss 0.0482
+Loss 0.0483
+Loss 0.0479
+Loss 0.0477
+Loss 0.0479
+Epoch 99 completed: Loss 0.0479 Accuracy 1.00
+Loss 0.0515
+Loss 0.0511
+Loss 0.0512
+Loss 0.0516
+Loss 0.0513
+Loss 0.0509
+Epoch 73 completed: Loss 0.0509 Accuracy 1.00
+Loss 0.0514
+Loss 0.0515
+Loss 0.0515
+Loss 0.0511
+Loss 0.0511
+Loss 0.0512
+Loss 0.0513
+Loss 0.0510
+Loss 0.0513
+Loss 0.0513
+Loss 0.0509
+Epoch 74 completed: Loss 0.0509 Accuracy 1.00
+Loss 0.0513
+Loss 0.0515
+Loss 0.0513
+Loss 0.0510
+Loss 0.0512
+Loss 0.0514
+Loss 0.0511
+Loss 0.0512
+Loss 0.0508
+Loss 0.0513
+Loss 0.0506
+Epoch 75 completed: Loss 0.0506 Accuracy 1.00
+Loss 0.0511
+Loss 0.0509
+Loss 0.0510
+Loss 0.0510
+Loss 0.0511
+Loss 0.0507
+Loss 0.0507
+Loss 0.0510
+Loss 0.0510
+Loss 0.0511
+Loss 0.0504
+Epoch 76 completed: Loss 0.0504 Accuracy 1.00
+Loss 0.0508
+Loss 0.0509
+Loss 0.0509
+Loss 0.0511
+Loss 0.0512
+Loss 0.0509
+Loss 0.0509
+Loss 0.0503
+Loss 0.0506
+Loss 0.0506
+Loss 0.0513
+Epoch 77 completed: Loss 0.0513 Accuracy 1.00
+Loss 0.0508
+Loss 0.0508
+Loss 0.0509
+Loss 0.0507
+Loss 0.0508
+Loss 0.0509
+Loss 0.0509
+Loss 0.0513
+Loss 0.0508
+Loss 0.0509
+Loss 0.0499
+Epoch 78 completed: Loss 0.0499 Accuracy 1.00
+Loss 0.0506
+Loss 0.0508
+Loss 0.0505
+Loss 0.0504
+Loss 0.0508
+Loss 0.0503
+Loss 0.0503
+Loss 0.0507
+Loss 0.0504
+Loss 0.0503
+Loss 0.0504
+Epoch 79 completed: Loss 0.0504 Accuracy 1.00
+Loss 0.0506
+Loss 0.0503
+Loss 0.0503
+Loss 0.0505
+Loss 0.0506
+Loss 0.0503
+Loss 0.0505
+Loss 0.0504
+Loss 0.0504
+Loss 0.0503
+Loss 0.0511
+Epoch 80 completed: Loss 0.0511 Accuracy 1.00
+Loss 0.0502
+Loss 0.0504
+Loss 0.0502
+Loss 0.0500
+Loss 0.0504
+Loss 0.0505
+Loss 0.0499
+Loss 0.0504
+Loss 0.0501
+Loss 0.0503
+Loss 0.0496
+Epoch 81 completed: Loss 0.0496 Accuracy 1.00
+Loss 0.0502
+Loss 0.0503
+Loss 0.0503
+Loss 0.0501
+Loss 0.0498
+Loss 0.0498
+Loss 0.0501
+Loss 0.0502
+Loss 0.0498
+Loss 0.0501
+Loss 0.0504
+Epoch 82 completed: Loss 0.0504 Accuracy 1.00
+Loss 0.0501
+Loss 0.0502
+Loss 0.0499
+Loss 0.0499
+Loss 0.0497
+Loss 0.0501
+Loss 0.0499
+Loss 0.0497
+Loss 0.0499
+Loss 0.0500
+Loss 0.0497
+Epoch 83 completed: Loss 0.0497 Accuracy 1.00
+Loss 0.0501
+Loss 0.0499
+Loss 0.0500
+Loss 0.0498
+Loss 0.0499
+Loss 0.0498
+Loss 0.0499
+Loss 0.0497
+Loss 0.0500
+Loss 0.0500
+Loss 0.0497
+Epoch 84 completed: Loss 0.0497 Accuracy 1.00
+Loss 0.0498
+Loss 0.0497
+Loss 0.0496
+Loss 0.0494
+Loss 0.0500
+Loss 0.0501
+Loss 0.0499
+Loss 0.0497
+Loss 0.0497
+Loss 0.0492
+Loss 0.0493
+Epoch 85 completed: Loss 0.0493 Accuracy 1.00
+Loss 0.0496
+Loss 0.0495
+Loss 0.0493
+Loss 0.0494
+Loss 0.0494
+Loss 0.0497
+Loss 0.0496
+Loss 0.0494
+Loss 0.0492
+Loss 0.0494
+Loss 0.0502
+Epoch 86 completed: Loss 0.0502 Accuracy 1.00
+Loss 0.0499
+Loss 0.0497
+Loss 0.0496
+Loss 0.0493
+Loss 0.0497
+Loss 0.0495
+Loss 0.0495
+Loss 0.0496
+Loss 0.0496
+Loss 0.0497
+Loss 0.0497
+Epoch 87 completed: Loss 0.0497 Accuracy 1.00
+Loss 0.0495
+Loss 0.0490
+Loss 0.0493
+Loss 0.0491
+Loss 0.0495
+Loss 0.0494
+Loss 0.0492
+Loss 0.0496
+Loss 0.0493
+Loss 0.0493
+Loss 0.0495
+Epoch 88 completed: Loss 0.0495 Accuracy 1.00
+Loss 0.0495
+Loss 0.0493
+Loss 0.0490
+Loss 0.0489
+Loss 0.0491
+Loss 0.0491
+Loss 0.0493
+Loss 0.0488
+Loss 0.0491
+Loss 0.0491
+Loss 0.0493
+Epoch 89 completed: Loss 0.0493 Accuracy 1.00
+Loss 0.0490
+Loss 0.0491
+Loss 0.0494
+Loss 0.0493
+Loss 0.0491
+Loss 0.0491
+Loss 0.0491
+Loss 0.0491
+Loss 0.0494
+Loss 0.0490
+Loss 0.0480
+Epoch 90 completed: Loss 0.0480 Accuracy 1.00
+Loss 0.0486
+Loss 0.0490
+Loss 0.0491
+Loss 0.0488
+Loss 0.0492
+Loss 0.0489
+Loss 0.0490
+Loss 0.0487
+Loss 0.0490
+Loss 0.0489
+Loss 0.0484
+Epoch 91 completed: Loss 0.0484 Accuracy 1.00
+Loss 0.0490
+Loss 0.0490
+Loss 0.0488
+Loss 0.0490
+Loss 0.0488
+Loss 0.0489
+Loss 0.0488
+Loss 0.0490
+Loss 0.0490
+Loss 0.0488
+Loss 0.0488
+Epoch 92 completed: Loss 0.0488 Accuracy 1.00
+Loss 0.0489
+Loss 0.0488
+Loss 0.0490
+Loss 0.0488
+Loss 0.0484
+Loss 0.0489
+Loss 0.0488
+Loss 0.0484
+Loss 0.0487
+Loss 0.0489
+Loss 0.0491
+Epoch 93 completed: Loss 0.0491 Accuracy 1.00
+Loss 0.0489
+Loss 0.0488
+Loss 0.0487
+Loss 0.0487
+Loss 0.0490
+Loss 0.0485
+Loss 0.0489
+Loss 0.0490
+Loss 0.0487
+Loss 0.0485
+Loss 0.0484
+Epoch 94 completed: Loss 0.0484 Accuracy 1.00
+Loss 0.0484
+Loss 0.0486
+Loss 0.0485
+Loss 0.0487
+Loss 0.0485
+Loss 0.0483
+Loss 0.0485
+Loss 0.0487
+Loss 0.0484
+Loss 0.0487
+Loss 0.0491
+Epoch 95 completed: Loss 0.0491 Accuracy 1.00
+Loss 0.0484
+Loss 0.0485
+Loss 0.0484
+Loss 0.0486
+Loss 0.0485
+Loss 0.0483
+Loss 0.0486
+Loss 0.0484
+Loss 0.0484
+Loss 0.0484
+Loss 0.0487
+Epoch 96 completed: Loss 0.0487 Accuracy 1.00
+Loss 0.0484
+Loss 0.0483
+Loss 0.0484
+Loss 0.0485
+Loss 0.0484
+Loss 0.0482
+Loss 0.0484
+Loss 0.0484
+Loss 0.0481
+Loss 0.0484
+Loss 0.0482
+Epoch 97 completed: Loss 0.0482 Accuracy 1.00
+Loss 0.0486
+Loss 0.0484
+Loss 0.0483
+Loss 0.0485
+Loss 0.0481
+Loss 0.0485
+Loss 0.0485
+Loss 0.0484
+Loss 0.0482
+Loss 0.0480
+Loss 0.0483
+Epoch 98 completed: Loss 0.0483 Accuracy 1.00
+Loss 0.0483
+Loss 0.0481
+Loss 0.0483
+Loss 0.0480
+Loss 0.0484
+Loss 0.0484
+Loss 0.0482
+Loss 0.0483
+Loss 0.0479
+Loss 0.0477
+Loss 0.0479
+Epoch 99 completed: Loss 0.0479 Accuracy 1.00
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/root/.pyenv/versions/3.9.11/lib/python3.9/site-packages/psutil/_pslinux.py", line 1716, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/root/.pyenv/versions/3.9.11/lib/python3.9/site-packages/psutil/_common.py", line 508, in wrapper
+    raise raise_from(err, None)
+  File "<string>", line 3, in raise_from
+  File "/root/.pyenv/versions/3.9.11/lib/python3.9/site-packages/psutil/_common.py", line 506, in wrapper
+    return fun(self)
+  File "/root/.pyenv/versions/3.9.11/lib/python3.9/site-packages/psutil/_pslinux.py", line 1784, in _parse_stat_file
+    data = bcat("%s/%s/stat" % (self._procfs_path, self.pid))
+  File "/root/.pyenv/versions/3.9.11/lib/python3.9/site-packages/psutil/_common.py", line 851, in bcat
+    return cat(fname, fallback=fallback, _open=open_binary)
+  File "/root/.pyenv/versions/3.9.11/lib/python3.9/site-packages/psutil/_common.py", line 839, in cat
+    with _open(fname) as f:
+  File "/root/.pyenv/versions/3.9.11/lib/python3.9/site-packages/psutil/_common.py", line 799, in open_binary
+    return open(fname, "rb", buffering=FILE_READ_BUFFER_SIZE)
+FileNotFoundError: [Errno 2] No such file or directory: '/proc/4077063/stat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/.pyenv/versions/3.9.11/lib/python3.9/threading.py", line 973, in _bootstrap_inner
+    self.run()
+  File "/root/.pyenv/versions/3.9.11/lib/python3.9/threading.py", line 910, in run
+    self._target(*self._args, **self._kwargs)
+  File "/root/zqz/iPrivJoin/./mpc_lr/launcher.py", line 152, in _monitor_thread
+    cpu_percent = current_process.cpu_percent(interval=0.1)
+  File "/root/.pyenv/versions/3.9.11/lib/python3.9/site-packages/psutil/__init__.py", line 1064, in cpu_percent
+    pt2 = self._proc.cpu_times()
+  File "/root/.pyenv/versions/3.9.11/lib/python3.9/site-packages/psutil/_pslinux.py", line 1716, in wrapper
+    return fun(self, *args, **kwargs)
+  File "/root/.pyenv/versions/3.9.11/lib/python3.9/site-packages/psutil/_pslinux.py", line 1938, in cpu_times
+    values = self._parse_stat_file()
+  File "/root/.pyenv/versions/3.9.11/lib/python3.9/site-packages/psutil/_pslinux.py", line 1730, in wrapper
+    raise NoSuchProcess(self.pid, self._name)
+psutil.NoSuchProcess: process no longer exists (pid=4077063)
+time= 10056.388327121735 s
+Monitoring usage: {4077063: {'cpu_usage': 1158.2, 'mem_usage(MB)': 2766.7109375}, 4077071: {'cpu_usage': 2666.0, 'mem_usage(MB)': 2353.5546875}}
+--------------------------------------------------------
+------------------------SVHN-------------------------------
+INFO:root:==================
+INFO:root:DistributedCommunicator with rank 1
+INFO:root:==================
+INFO:root:==================
+INFO:root:DistributedCommunicator with rank 0
+INFO:root:==================
+INFO:root:World size = 2
+INFO:root:World size = 2
+/root/.pyenv/versions/3.9.11/lib/python3.9/site-packages/crypten/__init__.py:64: RuntimeWarning: CrypTen is already initialized.
+  warnings.warn("CrypTen is already initialized.", RuntimeWarning)
+/root/.pyenv/versions/3.9.11/lib/python3.9/site-packages/crypten/__init__.py:64: RuntimeWarning: CrypTen is already initialized.
+  warnings.warn("CrypTen is already initialized.", RuntimeWarning)
+data= [[[ 2980944138566504644  7344094843592057820 -5079889069186265361 ...
+    8621310561241039969                    0                    1]
+  [-8907549843970858360 -2906568366270970692 -7540928748421897635 ...
+    9146553655475213037                    0                    1]
+  [ -792555466045072744  7723126888884002964 -7021615228581205620 ...
+    4462565875355033858                    0                    0]
+  ...
+  [ 2290761078786174381 -4456520349706470385 -7789009943614598576 ...
+   -3664959754288707434                    0                    1]
+  [ 2820226151201886907  -899171065964936511  4277666011892266070 ...
+    8524783245296141504                    0                    0]
+  [ 1047792654086055001  5459207787538106169 -6308642167273013577 ...
+   -6809212517949926295                    0                    1]]
+
+ [[ 2980944138566504644  7344094843592057820 -5079889069186265361 ...
+    8621310561241039969                    0                    1]
+  [-8907549843970858360 -2906568366270970692 -7540928748421897635 ...
+    9146553655475213037                    0                    1]
+  [ -792555466045072744  7723126888884002964 -7021615228581205620 ...
+    4462565875355033858                    0                    0]
+  ...
+  [ 2290761078786174381 -4456520349706470385 -7789009943614598576 ...
+   -3664959754288707434                    0                    1]
+  [ 2820226151201886907  -899171065964936511  4277666011892266070 ...
+    8524783245296141504                    0                    0]
+  [ 1047792654086055001  5459207787538106169 -6308642167273013577 ...
+   -6809212517949926295                    0                    0]]
+
+ [[ 2980944138566504644  7344094843592057820 -5079889069186265361 ...
+    8621310561241039969                    0                    1]
+  [-8907549843970858360 -2906568366270970692 -7540928748421897635 ...
+    9146553655475213037                    0                    1]
+  [ -792555466045072744  7723126888884002964 -7021615228581205620 ...
+    4462565875355033858                    0                    0]
+  ...
+  [ 2290761078786174381 -4456520349706470385 -7789009943614598576 ...
+   -3664959754288707434                    0                    1]
+  [ 2820226151201886907  -899171065964936511  4277666011892266070 ...
+    8524783245296141504                    0                    0]
+  [ 1047792654086055001  5459207787538106169 -6308642167273013577 ...
+   -6809212517949926295                    0                    0]]
+
+ ...
+
+ [[ 2980944138566504644  7344094843592057820 -5079889069186265361 ...
+    8621310561241039969                    0                    1]
+  [-8907549843970858360 -2906568366270970692 -7540928748421897635 ...
+    9146553655475213037                    0                    1]
+  [ -792555466045072744  7723126888884002964 -7021615228581205620 ...
+    4462565875355033858                    0                    0]
+  ...
+  [ 2290761078786174381 -4456520349706470385 -7789009943614598576 ...
+   -3664959754288707434                    0                    1]
+  [ 2820226151201886907  -899171065964936511  4277666011892266070 ...
+    8524783245296141504                    0                    0]
+  [ 1047792654086055001  5459207787538106169 -6308642167273013577 ...
+   -6809212517949926295                    0                    0]]
+
+ [[ 2980944138566504644  7344094843592057820 -5079889069186265361 ...
+    8621310561241039969                    0                    1]
+  [-8907549843970858360 -2906568366270970692 -7540928748421897635 ...
+    9146553655475213037                    0                    1]
+  [ -792555466045072744  7723126888884002964 -7021615228581205620 ...
+    4462565875355033858                    0                    0]
+  ...
+  [ 2290761078786174381 -4456520349706470385 -7789009943614598576 ...
+   -3664959754288707434                    0                    1]
+  [ 2820226151201886907  -899171065964936511  4277666011892266070 ...
+    8524783245296141504                    0                    0]
+  [ 1047792654086055001  5459207787538106169 -6308642167273013577 ...
+   -6809212517949926295                    0                    0]]
+
+ [[ 2980944138566504644  7344094843592057820 -5079889069186265361 ...
+    8621310561241039969                    0                    0]
+  [-8907549843970858360 -2906568366270970692 -7540928748421897635 ...
+    9146553655475213037                    0                    1]
+  [ -792555466045072744  7723126888884002964 -7021615228581205620 ...
+    4462565875355033858                    0                    1]
+  ...
+  [ 2290761078786174381 -4456520349706470385 -7789009943614598576 ...
+   -3664959754288707434                    0                    0]
+  [ 2820226151201886907  -899171065964936511  4277666011892266070 ...
+    8524783245296141504                    0                    0]
+  [ 1047792654086055001  5459207787538106169 -6308642167273013577 ...
+   -6809212517949926295                    0                    0]]]
+Epoch 0 in progress:
+Loss 0.7275
+Loss 0.7088
+Loss 0.6842
+Loss 0.6613
+Loss 0.6391
+Loss 0.6191
+Loss 0.5997
+Loss 0.5813
+Loss 0.5641
+Loss 0.5474
+Loss 0.5310
+Epoch 0 completed: Loss 0.5310 Accuracy 1.00
+Epoch 1 in progress:
+Loss 0.5166
+Loss 0.5022
+Loss 0.4888
+Loss 0.4755
+Loss 0.4632
+Loss 0.4511
+Loss 0.4398
+Loss 0.4289
+Loss 0.4187
+Loss 0.4084
+Loss 0.3985
+Epoch 1 completed: Loss 0.3985 Accuracy 1.00
+Epoch 2 in progress:
+Loss 0.3898
+Loss 0.3810
+Loss 0.3726
+Loss 0.3649
+Loss 0.3569
+Loss 0.3496
+Loss 0.3426
+Loss 0.3354
+Loss 0.3290
+Loss 0.3228
+Loss 0.3164
+Epoch 2 completed: Loss 0.3164 Accuracy 1.00
+Epoch 3 in progress:
+Loss 0.3108
+Loss 0.3049
+Loss 0.2995
+Loss 0.2943
+Loss 0.2894
+Loss 0.2842
+Loss 0.2794
+Loss 0.2748
+Loss 0.2704
+Loss 0.2662
+Loss 0.2622
+Epoch 3 completed: Loss 0.2622 Accuracy 1.00
+Epoch 4 in progress:
+Loss 0.2579
+Loss 0.2544
+Loss 0.2505
+Loss 0.2464
+Loss 0.2431
+Loss 0.2402
+Loss 0.2365
+Loss 0.2331
+Loss 0.2300
+Loss 0.2271
+Loss 0.2247
+Epoch 4 completed: Loss 0.2247 Accuracy 1.00
+Epoch 5 in progress:
+Loss 0.2209
+Loss 0.2184
+Loss 0.2158
+Loss 0.2133
+Loss 0.2102
+Loss 0.2079
+Loss 0.2056
+Loss 0.2033
+Loss 0.2007
+Loss 0.1986
+Loss 0.1968
+Epoch 5 completed: Loss 0.1968 Accuracy 1.00
+Epoch 6 in progress:
+Loss 0.1942
+Loss 0.1921
+Loss 0.1902
+Loss 0.1882
+Loss 0.1862
+Loss 0.1845
+Loss 0.1824
+Loss 0.1805
+Loss 0.1788
+Loss 0.1771
+Loss 0.1751
+Epoch 6 completed: Loss 0.1751 Accuracy 1.00
+Epoch 7 in progress:
+Loss 0.1738
+Loss 0.1720
+Loss 0.1707
+Loss 0.1691
+Loss 0.1678
+Loss 0.1662
+Loss 0.1646
+Loss 0.1633
+Loss 0.1620
+Loss 0.1606
+Loss 0.1593
+Epoch 7 completed: Loss 0.1593 Accuracy 1.00
+Epoch 8 in progress:
+Loss 0.1579
+Loss 0.1568
+Loss 0.1554
+Loss 0.1542
+Loss 0.1527
+Loss 0.1521
+Loss 0.1506
+Loss 0.1495
+Loss 0.1487
+Loss 0.1474
+Loss 0.1456
+Epoch 8 completed: Loss 0.1456 Accuracy 1.00
+Epoch 9 in progress:
+Loss 0.1451
+Loss 0.1441
+Loss 0.1433
+Loss 0.1421
+Loss 0.1412
+Loss 0.1405
+Loss 0.1392
+Loss 0.1385
+Loss 0.1378
+Loss 0.1369
+Loss 0.1356
+Epoch 9 completed: Loss 0.1356 Accuracy 1.00
+Epoch 10 in progress:
+Loss 0.1349
+Loss 0.1341
+Loss 0.1333
+Loss 0.1326
+Loss 0.1315
+Loss 0.1306
+Loss 0.1299
+Loss 0.1289
+Loss 0.1286
+Loss 0.1276
+Loss 0.1268
+Epoch 10 completed: Loss 0.1268 Accuracy 1.00
+Epoch 11 in progress:
+Loss 0.1261
+Loss 0.1253
+Loss 0.1251
+Loss 0.1244
+Loss 0.1233
+Loss 0.1225
+Loss 0.1223
+Loss 0.1215
+Loss 0.1212
+Loss 0.1202
+Loss 0.1197
+Epoch 11 completed: Loss 0.1197 Accuracy 1.00
+Epoch 12 in progress:
+Loss 0.1190
+Loss 0.1185
+Loss 0.1177
+Loss 0.1174
+Loss 0.1165
+Loss 0.1160
+Loss 0.1151
+Loss 0.1149
+Loss 0.1148
+Loss 0.1140
+Loss 0.1132
+Epoch 12 completed: Loss 0.1132 Accuracy 1.00
+Epoch 13 in progress:
+Loss 0.1129
+Loss 0.1124
+Loss 0.1121
+Loss 0.1113
+Loss 0.1111
+Loss 0.1103
+Loss 0.1096
+Loss 0.1093
+Loss 0.1089
+Loss 0.1083
+Loss 0.1076
+Epoch 13 completed: Loss 0.1076 Accuracy 1.00
+Epoch 14 in progress:
+Loss 0.1074
+Loss 0.1070
+Loss 0.1068
+Loss 0.1061
+Loss 0.1059
+Loss 0.1057
+Loss 0.1051
+Loss 0.1044
+Loss 0.1039
+Loss 0.1038
+Loss 0.1031
+Epoch 14 completed: Loss 0.1031 Accuracy 1.00
+Epoch 15 in progress:
+Loss 0.1031
+Loss 0.1029
+Loss 0.1019
+Loss 0.1020
+Loss 0.1016
+Loss 0.1008
+Loss 0.1006
+Loss 0.1006
+Loss 0.0999
+Loss 0.0994
+Loss 0.0996
+Epoch 15 completed: Loss 0.0996 Accuracy 1.00
+data= [[[ 4836135554080631688  1635289079984406380  1909750450284862094 ...
+   -1933165711197515923                    1                    1]
+  [-5945410493950709045 -7255797989029735016  9132071688381684318 ...
+   -4563257569596846913                    1                    1]
+  [ 3598229019331580637  -481999455413061475  7906277637820991447 ...
+   -5237432061413506587                    0                    0]
+  ...
+  [-6600059547001599037  5688038798699618288  3186767841746317571 ...
+   -6172744265448438894                    0                    1]
+  [ 1603699305962649901 -1184982807891112928 -2881012466979542727 ...
+    6469614585677811760                    0                    0]
+  [ 1047792654086054934  5459207787538106236 -6308642167273013619 ...
+   -6809212517949926389                    0                    0]]
+
+ [[ 4077459877834205793   783663401193662072 -8039851527565069535 ...
+   -7760005749068744690                    1                    1]
+  [ 7336223169437896862  7780365072404652500  3251318922503670509 ...
+    -193590191471871125                    1                    1]
+  [   -7557412148640972 -4986455584869409313 -1460895512871771430 ...
+   -8647137333567355860                    0                    0]
+  ...
+  [-3097985746310250010 -2062356466355387311 -1023536955580719419 ...
+   -7481303739624908106                    0                    1]
+  [ -657337654878914056 -5138803329961018246 -3680948273843424850 ...
+   -8764524704956989668                    0                    0]
+  [-2595919452882378282 -1074478127696461980 -3239525163743493880 ...
+    7977612848874821197                    0                    0]]
+
+ [[ -532289103536322706 -7269703531577856078  3479042321010100893 ...
+     -17681245791619502                    1                    1]
+  [ 3295763293205602525 -6852424443831179496 -4706282941832609964 ...
+     731121292195450445                    1                    1]
+  [-7820445132434326437  3522831677296596541  1567697400134018129 ...
+    4865049417285772568                    0                    0]
+  ...
+  [ 1774822782256111726 -5632157539424265968  1657439257166198834 ...
+    7857063634995078494                    0                    1]
+  [ 5042872768872662082 -2343682268773024271 -7284003567612312970 ...
+    -228539867245235392                    0                    0]
+  [ 1486970273908550135  2750258435404492047  1772817617505278348 ...
+    3054844422924543595                    0                    0]]
+
+ ...
+
+ [[-1345752019889471654 -4017007721630414252 -8970629223436275968 ...
+   -1473500529845936454                    1                    1]
+  [-3539335506564176512  1544384713906624726  4850134780505049028 ...
+   -4904136117241679572                    1                    1]
+  [-8007222739353546892  -714692028197723402 -2886893133599464756 ...
+    8703582083759839312                    0                    0]
+  ...
+  [ 6716837170611267119  1784263348768321985  3651819494868046716 ...
+    5868356556351411387                    0                    1]
+  [-4037602512493685198  -285585010810081563  8783098608602010148 ...
+    6806786392263607398                    0                    0]
+  [ -466203535275626301  2326750256889396574  8280989983424300034 ...
+   -7539222117366898690                    0                    0]]
+
+ [[ 1039642261282391246  7741105513905057595 -5183239903823744699 ...
+    -535933568099259591                    1                    1]
+  [-6443235578186438533 -1418137673359929182 -3164339203955721045 ...
+    4530253532482292703                    1                    1]
+  [-9072155960692138721   782109491041829556 -3143197097295958769 ...
+   -2283976650485067197                    0                    0]
+  ...
+  [  335560663717364896  -828171390454930332  4564394095695508530 ...
+   -6557660526092145754                    0                    1]
+  [-2046051784119132542 -5876665021281915261  7592820600274641664 ...
+   -4056892404757975963                    0                    0]
+  [-5671774009482491419  -431739509515621161  3869907162590933536 ...
+   -8964325618888277040                    0                    0]]
+
+ [[-6230798979161181263 -5097893497207565380  5780011224590129323 ...
+     426885506564080897                    1                    0]
+  [ 5535487809456912198 -2015221393838395490 -6208079958924129549 ...
+   -3188359479843810659                    1                    1]
+  [ 7910372309123545050  7345849880912739838  3403180019381896621 ...
+   -3348351986921735348                    0                    1]
+  ...
+  [-8167568655504779694  4767493027815480474  5426227494979366164 ...
+    4740839497797167341                    0                    0]
+  [   88329693235665486  7608450854517796124    15857322716071846 ...
+   -6753936778094099101                    0                    0]
+  [-3981859308403282731  2422420601228928735  7365259720322363336 ...
+   -4079996499662092902                    0                    0]]]
+Loss 0.7275
+Loss 0.7088
+Loss 0.6842
+Loss 0.6613
+Loss 0.6391
+Loss 0.6191
+Loss 0.5997
+Loss 0.5813
+Loss 0.5641
+Loss 0.5474
+Loss 0.5310
+Epoch 0 completed: Loss 0.5310 Accuracy 1.00
+Loss 0.5166
+Loss 0.5022
+Loss 0.4888
+Loss 0.4755
+Loss 0.4632
+Loss 0.4511
+Loss 0.4398
+Loss 0.4289
+Loss 0.4187
+Loss 0.4084
+Loss 0.3985
+Epoch 1 completed: Loss 0.3985 Accuracy 1.00
+Loss 0.3898
+Loss 0.3810
+Loss 0.3726
+Loss 0.3649
+Loss 0.3569
+Loss 0.3496
+Loss 0.3426
+Loss 0.3354
+Loss 0.3290
+Loss 0.3228
+Loss 0.3164
+Epoch 2 completed: Loss 0.3164 Accuracy 1.00
+Loss 0.3108
+Loss 0.3049
+Loss 0.2995
+Loss 0.2943
+Loss 0.2894
+Loss 0.2842
+Loss 0.2794
+Loss 0.2748
+Loss 0.2704
+Loss 0.2662
+Loss 0.2622
+Epoch 3 completed: Loss 0.2622 Accuracy 1.00
+Loss 0.2579
+Loss 0.2544
+Loss 0.2505
+Loss 0.2464
+Loss 0.2431
+Loss 0.2402
+Loss 0.2365
+Loss 0.2331
+Loss 0.2300
+Loss 0.2271
+Loss 0.2247
+Epoch 4 completed: Loss 0.2247 Accuracy 1.00
+Loss 0.2209
+Loss 0.2184
+Loss 0.2158
+Loss 0.2133
+Loss 0.2102
+Loss 0.2079
+Loss 0.2056
+Loss 0.2033
+Loss 0.2007
+Loss 0.1986
+Loss 0.1968
+Epoch 5 completed: Loss 0.1968 Accuracy 1.00
+Loss 0.1942
+Loss 0.1921
+Loss 0.1902
+Loss 0.1882
+Loss 0.1862
+Loss 0.1845
+Loss 0.1824
+Loss 0.1805
+Loss 0.1788
+Loss 0.1771
+Loss 0.1751
+Epoch 6 completed: Loss 0.1751 Accuracy 1.00
+Loss 0.1738
+Loss 0.1720
+Loss 0.1707
+Loss 0.1691
+Loss 0.1678
+Loss 0.1662
+Loss 0.1646
+Loss 0.1633
+Loss 0.1620
+Loss 0.1606
+Loss 0.1593
+Epoch 7 completed: Loss 0.1593 Accuracy 1.00
+Loss 0.1579
+Loss 0.1568
+Loss 0.1554
+Loss 0.1542
+Loss 0.1527
+Loss 0.1521
+Loss 0.1506
+Loss 0.1495
+Loss 0.1487
+Loss 0.1474
+Loss 0.1456
+Epoch 8 completed: Loss 0.1456 Accuracy 1.00
+Loss 0.1451
+Loss 0.1441
+Loss 0.1433
+Loss 0.1421
+Loss 0.1412
+Loss 0.1405
+Loss 0.1392
+Loss 0.1385
+Loss 0.1378
+Loss 0.1369
+Loss 0.1356
+Epoch 9 completed: Loss 0.1356 Accuracy 1.00
+Loss 0.1349
+Loss 0.1341
+Loss 0.1333
+Loss 0.1326
+Loss 0.1315
+Loss 0.1306
+Loss 0.1299
+Loss 0.1289
+Loss 0.1286
+Loss 0.1276
+Loss 0.1268
+Epoch 10 completed: Loss 0.1268 Accuracy 1.00
+Loss 0.1261
+Loss 0.1253
+Loss 0.1251
+Loss 0.1244
+Loss 0.1233
+Loss 0.1225
+Loss 0.1223
+Loss 0.1215
+Loss 0.1212
+Loss 0.1202
+Loss 0.1197
+Epoch 11 completed: Loss 0.1197 Accuracy 1.00
+Loss 0.1190
+Loss 0.1185
+Loss 0.1177
+Loss 0.1174
+Loss 0.1165
+Loss 0.1160
+Loss 0.1151
+Loss 0.1149
+Loss 0.1148
+Loss 0.1140
+Loss 0.1132
+Epoch 12 completed: Loss 0.1132 Accuracy 1.00
+Loss 0.1129
+Loss 0.1124
+Loss 0.1121
+Loss 0.1113
+Loss 0.1111
+Loss 0.1103
+Loss 0.1096
+Loss 0.1093
+Loss 0.1089
+Loss 0.1083
+Loss 0.1076
+Epoch 13 completed: Loss 0.1076 Accuracy 1.00
+Loss 0.1074
+Loss 0.1070
+Loss 0.1068
+Loss 0.1061
+Loss 0.1059
+Loss 0.1057
+Loss 0.1051
+Loss 0.1044
+Loss 0.1039
+Loss 0.1038
+Loss 0.1031
+Epoch 14 completed: Loss 0.1031 Accuracy 1.00
+Loss 0.1031
+Loss 0.1029
+Loss 0.1019
+Loss 0.1020
+Loss 0.1016
+Loss 0.1008
+Loss 0.1006
+Loss 0.1006
+Loss 0.0999
+Loss 0.0994
+Loss 0.0996
+Epoch 15 completed: Loss 0.0996 Accuracy 1.00
+Loss 0.0987
+Loss 0.0986
+Loss 0.0983
+Loss 0.0978
+Loss 0.0976
+Loss 0.0972
+Loss 0.0970
+Loss 0.0965
+Loss 0.0963
+Loss 0.0960
+Loss 0.0951
+Epoch 16 completed: Loss 0.0951 Accuracy 1.00
+Loss 0.0954
+Loss 0.0948
+Loss 0.0945
+Loss 0.0946
+Loss 0.0938
+Loss 0.0937
+Loss 0.0932
+Loss 0.0932
+Loss 0.0926
+Loss 0.0932
+Loss 0.0923
+Epoch 17 completed: Loss 0.0923 Accuracy 1.00
+Epoch 16 in progress:
+Loss 0.0987
+Loss 0.0986
+Loss 0.0983
+Loss 0.0978
+Loss 0.0976
+Loss 0.0972
+Loss 0.0970
+Loss 0.0965
+Loss 0.0963
+Loss 0.0960
+Loss 0.0951
+Epoch 16 completed: Loss 0.0951 Accuracy 1.00
+Epoch 17 in progress:
+Loss 0.0954
+Loss 0.0948
+Loss 0.0945
+Loss 0.0946
+Loss 0.0938
+Loss 0.0937
+Loss 0.0932
+Loss 0.0932
+Loss 0.0926
+Loss 0.0932
+Loss 0.0923
+Epoch 17 completed: Loss 0.0923 Accuracy 1.00
+Epoch 18 in progress:
+Loss 0.0916
+Loss 0.0918
+Loss 0.0914
+Loss 0.0913
+Loss 0.0910
+Loss 0.0908
+Loss 0.0906
+Loss 0.0903
+Loss 0.0898
+Loss 0.0894
+Loss 0.0893
+Epoch 18 completed: Loss 0.0893 Accuracy 1.00
+Epoch 19 in progress:
+Loss 0.0894
+Loss 0.0893
+Loss 0.0888
+Loss 0.0887
+Loss 0.0884
+Loss 0.0881
+Loss 0.0879
+Loss 0.0877
+Loss 0.0871
+Loss 0.0868
+Loss 0.0876
+Epoch 19 completed: Loss 0.0876 Accuracy 1.00
+Epoch 20 in progress:
+Loss 0.0866
+Loss 0.0865
+Loss 0.0862
+Loss 0.0859
+Loss 0.0858
+Loss 0.0858
+Loss 0.0853
+Loss 0.0854
+Loss 0.0848
+Loss 0.0845
+Loss 0.0847
+Epoch 20 completed: Loss 0.0847 Accuracy 1.00
+Epoch 21 in progress:
+Loss 0.0843
+Loss 0.0839
+Loss 0.0841
+Loss 0.0837
+Loss 0.0833
+Loss 0.0835
+Loss 0.0831
+Loss 0.0832
+Loss 0.0828
+Loss 0.0830
+Loss 0.0825
+Epoch 21 completed: Loss 0.0825 Accuracy 1.00
+Epoch 22 in progress:
+Loss 0.0823
+Loss 0.0820
+Loss 0.0825
+Loss 0.0817
+Loss 0.0819
+Loss 0.0815
+Loss 0.0811
+Loss 0.0811
+Loss 0.0808
+Loss 0.0804
+Loss 0.0803
+Epoch 22 completed: Loss 0.0803 Accuracy 1.00
+Epoch 23 in progress:
+Loss 0.0800
+Loss 0.0799
+Loss 0.0801
+Loss 0.0802
+Loss 0.0798
+Loss 0.0798
+Loss 0.0793
+Loss 0.0794
+Loss 0.0791
+Loss 0.0789
+Loss 0.0786
+Epoch 23 completed: Loss 0.0786 Accuracy 1.00
+Epoch 24 in progress:
+Loss 0.0785
+Loss 0.0783
+Loss 0.0784
+Loss 0.0781
+Loss 0.0778
+Loss 0.0778
+Loss 0.0776
+Loss 0.0772
+Loss 0.0773
+Loss 0.0772
+Loss 0.0768
+Epoch 24 completed: Loss 0.0768 Accuracy 1.00
+Epoch 25 in progress:
+Loss 0.0771
+Loss 0.0768
+Loss 0.0767
+Loss 0.0765
+Loss 0.0765
+Loss 0.0760
+Loss 0.0761
+Loss 0.0758
+Loss 0.0757
+Loss 0.0755
+Loss 0.0760
+Epoch 25 completed: Loss 0.0760 Accuracy 1.00
+Epoch 26 in progress:
+Loss 0.0752
+Loss 0.0753
+Loss 0.0753
+Loss 0.0753
+Loss 0.0751
+Loss 0.0748
+Loss 0.0747
+Loss 0.0745
+Loss 0.0744
+Loss 0.0743
+Loss 0.0740
+Epoch 26 completed: Loss 0.0740 Accuracy 1.00
+Epoch 27 in progress:
+Loss 0.0741
+Loss 0.0737
+Loss 0.0740
+Loss 0.0737
+Loss 0.0733
+Loss 0.0735
+Loss 0.0732
+Loss 0.0734
+Loss 0.0730
+Loss 0.0727
+Loss 0.0725
+Epoch 27 completed: Loss 0.0725 Accuracy 1.00
+Epoch 28 in progress:
+Loss 0.0725
+Loss 0.0724
+Loss 0.0725
+Loss 0.0724
+Loss 0.0722
+Loss 0.0720
+Loss 0.0720
+Loss 0.0719
+Loss 0.0719
+Loss 0.0713
+Loss 0.0711
+Epoch 28 completed: Loss 0.0711 Accuracy 1.00
+Epoch 29 in progress:
+Loss 0.0718
+Loss 0.0711
+Loss 0.0714
+Loss 0.0711
+Loss 0.0711
+Loss 0.0709
+Loss 0.0709
+Loss 0.0711
+Loss 0.0706
+Loss 0.0706
+Loss 0.0706
+Epoch 29 completed: Loss 0.0706 Accuracy 1.00
+Epoch 30 in progress:
+Loss 0.0704
+Loss 0.0701
+Loss 0.0701
+Loss 0.0696
+Loss 0.0700
+Loss 0.0702
+Loss 0.0701
+Loss 0.0697
+Loss 0.0699
+Loss 0.0695
+Loss 0.0699
+Epoch 30 completed: Loss 0.0699 Accuracy 1.00
+Epoch 31 in progress:
+Loss 0.0697
+Loss 0.0694
+Loss 0.0693
+Loss 0.0690
+Loss 0.0695
+Loss 0.0688
+Loss 0.0687
+Loss 0.0688
+Loss 0.0684
+Loss 0.0687
+Loss 0.0683
+Epoch 31 completed: Loss 0.0683 Accuracy 1.00
+Epoch 32 in progress:
+Loss 0.0683
+Loss 0.0687
+Loss 0.0685
+Loss 0.0681
+Loss 0.0680
+Loss 0.0679
+Loss 0.0681
+Loss 0.0680
+Loss 0.0679
+Loss 0.0679
+Loss 0.0681
+Epoch 32 completed: Loss 0.0681 Accuracy 1.00
+Epoch 33 in progress:
+Loss 0.0672
+Loss 0.0674
+Loss 0.0670
+Loss 0.0672
+Loss 0.0670
+Loss 0.0670
+Loss 0.0671
+Loss 0.0669
+Loss 0.0666
+Loss 0.0669
+Loss 0.0667
+Epoch 33 completed: Loss 0.0667 Accuracy 1.00
+Epoch 34 in progress:
+Loss 0.0668
+Loss 0.0663
+Loss 0.0665
+Loss 0.0663
+Loss 0.0662
+Loss 0.0665
+Loss 0.0660
+Loss 0.0663
+Loss 0.0659
+Loss 0.0658
+Loss 0.0657
+Epoch 34 completed: Loss 0.0657 Accuracy 1.00
+Epoch 35 in progress:
+Loss 0.0657
+Loss 0.0656
+Loss 0.0659
+Loss 0.0655
+Loss 0.0654
+Loss 0.0654
+Loss 0.0655
+Loss 0.0654
+Loss 0.0651
+Loss 0.0652
+Loss 0.0645
+Epoch 35 completed: Loss 0.0645 Accuracy 1.00
+Epoch 36 in progress:
+Loss 0.0649
+Loss 0.0652
+Loss 0.0651
+Loss 0.0650
+Loss 0.0648
+Loss 0.0646
+Loss 0.0647
+Loss 0.0645
+Loss 0.0646
+Loss 0.0645
+Loss 0.0641
+Epoch 36 completed: Loss 0.0641 Accuracy 1.00
+Epoch 37 in progress:
+Loss 0.0644
+Loss 0.0639
+Loss 0.0644
+Loss 0.0637
+Loss 0.0645
+Loss 0.0641
+Loss 0.0639
+Loss 0.0638
+Loss 0.0636
+Loss 0.0638
+Loss 0.0634
+Epoch 37 completed: Loss 0.0634 Accuracy 1.00
+Epoch 38 in progress:
+Loss 0.0638
+Loss 0.0635
+Loss 0.0632
+Loss 0.0633
+Loss 0.0635
+Loss 0.0633
+Loss 0.0634
+Loss 0.0634
+Loss 0.0634
+Loss 0.0629
+Loss 0.0630
+Epoch 38 completed: Loss 0.0630 Accuracy 1.00
+Epoch 39 in progress:
+Loss 0.0630
+Loss 0.0629
+Loss 0.0625
+Loss 0.0629
+Loss 0.0626
+Loss 0.0628
+Loss 0.0628
+Loss 0.0625
+Loss 0.0626
+Loss 0.0627
+Loss 0.0628
+Epoch 39 completed: Loss 0.0628 Accuracy 1.00
+Epoch 40 in progress:
+Loss 0.0624
+Loss 0.0623
+Loss 0.0622
+Loss 0.0625
+Loss 0.0621
+Loss 0.0622
+Loss 0.0621
+Loss 0.0619
+Loss 0.0619
+Loss 0.0618
+Loss 0.0622
+Epoch 40 completed: Loss 0.0622 Accuracy 1.00
+Epoch 41 in progress:
+Loss 0.0617
+Loss 0.0621
+Loss 0.0616
+Loss 0.0616
+Loss 0.0616
+Loss 0.0611
+Loss 0.0616
+Loss 0.0615
+Loss 0.0614
+Loss 0.0611
+Loss 0.0609
+Epoch 41 completed: Loss 0.0609 Accuracy 1.00
+Epoch 42 in progress:
+Loss 0.0613
+Loss 0.0611
+Loss 0.0610
+Loss 0.0609
+Loss 0.0609
+Loss 0.0614
+Loss 0.0610
+Loss 0.0609
+Loss 0.0606
+Loss 0.0607
+Loss 0.0611
+Epoch 42 completed: Loss 0.0611 Accuracy 1.00
+Epoch 43 in progress:
+Loss 0.0608
+Loss 0.0607
+Loss 0.0603
+Loss 0.0609
+Loss 0.0606
+Loss 0.0603
+Loss 0.0607
+Loss 0.0606
+Loss 0.0606
+Loss 0.0601
+Loss 0.0609
+Epoch 43 completed: Loss 0.0609 Accuracy 1.00
+Epoch 44 in progress:
+Loss 0.0599
+Loss 0.0600
+Loss 0.0599
+Loss 0.0603
+Loss 0.0600
+Loss 0.0602
+Loss 0.0597
+Loss 0.0600
+Loss 0.0597
+Loss 0.0596
+Loss 0.0599
+Epoch 44 completed: Loss 0.0599 Accuracy 1.00
+Epoch 45 in progress:
+Loss 0.0598
+Loss 0.0598
+Loss 0.0600
+Loss 0.0595
+Loss 0.0593
+Loss 0.0595
+Loss 0.0597
+Loss 0.0594
+Loss 0.0591
+Loss 0.0593
+Loss 0.0589
+Epoch 45 completed: Loss 0.0589 Accuracy 1.00
+Epoch 46 in progress:
+Loss 0.0596
+Loss 0.0596
+Loss 0.0591
+Loss 0.0589
+Loss 0.0592
+Loss 0.0588
+Loss 0.0592
+Loss 0.0589
+Loss 0.0586
+Loss 0.0588
+Loss 0.0600
+Epoch 46 completed: Loss 0.0600 Accuracy 1.00
+Epoch 47 in progress:
+Loss 0.0589
+Loss 0.0589
+Loss 0.0592
+Loss 0.0582
+Loss 0.0585
+Loss 0.0585
+Loss 0.0588
+Loss 0.0586
+Loss 0.0586
+Loss 0.0585
+Loss 0.0580
+Epoch 47 completed: Loss 0.0580 Accuracy 1.00
+Epoch 48 in progress:
+Loss 0.0582
+Loss 0.0583
+Loss 0.0582
+Loss 0.0582
+Loss 0.0582
+Loss 0.0580
+Loss 0.0582
+Loss 0.0578
+Loss 0.0580
+Loss 0.0583
+Loss 0.0585
+Epoch 48 completed: Loss 0.0585 Accuracy 1.00
+Epoch 49 in progress:
+Loss 0.0582
+Loss 0.0582
+Loss 0.0576
+Loss 0.0580
+Loss 0.0580
+Loss 0.0579
+Loss 0.0576
+Loss 0.0578
+Loss 0.0576
+Loss 0.0576
+Loss 0.0578
+Epoch 49 completed: Loss 0.0578 Accuracy 1.00
+Epoch 50 in progress:
+Loss 0.0575
+Loss 0.0577
+Loss 0.0577
+Loss 0.0574
+Loss 0.0574
+Loss 0.0576
+Loss 0.0575
+Loss 0.0573
+Loss 0.0574
+Loss 0.0573
+Loss 0.0574
+Epoch 50 completed: Loss 0.0574 Accuracy 1.00
+Epoch 51 in progress:
+Loss 0.0570
+Loss 0.0571
+Loss 0.0571
+Loss 0.0572
+Loss 0.0569
+Loss 0.0573
+Loss 0.0572
+Loss 0.0569
+Loss 0.0570
+Loss 0.0572
+Loss 0.0567
+Epoch 51 completed: Loss 0.0567 Accuracy 1.00
+Epoch 52 in progress:
+Loss 0.0568
+Loss 0.0566
+Loss 0.0563
+Loss 0.0567
+Loss 0.0570
+Loss 0.0567
+Loss 0.0568
+Loss 0.0567
+Loss 0.0567
+Loss 0.0565
+Loss 0.0567
+Epoch 52 completed: Loss 0.0567 Accuracy 1.00
+Epoch 53 in progress:
+Loss 0.0566
+Loss 0.0564
+Loss 0.0566
+Loss 0.0561
+Loss 0.0564
+Loss 0.0565
+Loss 0.0563
+Loss 0.0565
+Loss 0.0559
+Loss 0.0565
+Loss 0.0556
+Epoch 53 completed: Loss 0.0556 Accuracy 1.00
+Epoch 54 in progress:
+Loss 0.0561
+Loss 0.0560
+Loss 0.0558
+Loss 0.0564
+Loss 0.0562
+Loss 0.0561
+Loss 0.0559
+Loss 0.0559
+Loss 0.0560
+Loss 0.0560
+Loss 0.0556
+Epoch 54 completed: Loss 0.0556 Accuracy 1.00
+Epoch 55 in progress:
+Loss 0.0557
+Loss 0.0556
+Loss 0.0559
+Loss 0.0558
+Loss 0.0560
+Loss 0.0558
+Loss 0.0559
+Loss 0.0557
+Loss 0.0557
+Loss 0.0557
+Loss 0.0556
+Epoch 55 completed: Loss 0.0556 Accuracy 1.00
+Epoch 56 in progress:
+Loss 0.0555
+Loss 0.0554
+Loss 0.0553
+Loss 0.0553
+Loss 0.0554
+Loss 0.0556
+Loss 0.0554
+Loss 0.0552
+Loss 0.0553
+Loss 0.0556
+Loss 0.0558
+Loss 0.0916
+Loss 0.0918
+Loss 0.0914
+Loss 0.0913
+Loss 0.0910
+Loss 0.0908
+Loss 0.0906
+Loss 0.0903
+Loss 0.0898
+Loss 0.0894
+Loss 0.0893
+Epoch 18 completed: Loss 0.0893 Accuracy 1.00
+Loss 0.0894
+Loss 0.0893
+Loss 0.0888
+Loss 0.0887
+Loss 0.0884
+Loss 0.0881
+Loss 0.0879
+Loss 0.0877
+Loss 0.0871
+Loss 0.0868
+Loss 0.0876
+Epoch 19 completed: Loss 0.0876 Accuracy 1.00
+Loss 0.0866
+Loss 0.0865
+Loss 0.0862
+Loss 0.0859
+Loss 0.0858
+Loss 0.0858
+Loss 0.0853
+Loss 0.0854
+Loss 0.0848
+Loss 0.0845
+Loss 0.0847
+Epoch 20 completed: Loss 0.0847 Accuracy 1.00
+Loss 0.0843
+Loss 0.0839
+Loss 0.0841
+Loss 0.0837
+Loss 0.0833
+Loss 0.0835
+Loss 0.0831
+Loss 0.0832
+Loss 0.0828
+Loss 0.0830
+Loss 0.0825
+Epoch 21 completed: Loss 0.0825 Accuracy 1.00
+Loss 0.0823
+Loss 0.0820
+Loss 0.0825
+Loss 0.0817
+Loss 0.0819
+Loss 0.0815
+Loss 0.0811
+Loss 0.0811
+Loss 0.0808
+Loss 0.0804
+Loss 0.0803
+Epoch 22 completed: Loss 0.0803 Accuracy 1.00
+Loss 0.0800
+Loss 0.0799
+Loss 0.0801
+Loss 0.0802
+Loss 0.0798
+Loss 0.0798
+Loss 0.0793
+Loss 0.0794
+Loss 0.0791
+Loss 0.0789
+Loss 0.0786
+Epoch 23 completed: Loss 0.0786 Accuracy 1.00
+Loss 0.0785
+Loss 0.0783
+Loss 0.0784
+Loss 0.0781
+Loss 0.0778
+Loss 0.0778
+Loss 0.0776
+Loss 0.0772
+Loss 0.0773
+Loss 0.0772
+Loss 0.0768
+Epoch 24 completed: Loss 0.0768 Accuracy 1.00
+Loss 0.0771
+Loss 0.0768
+Loss 0.0767
+Loss 0.0765
+Loss 0.0765
+Loss 0.0760
+Loss 0.0761
+Loss 0.0758
+Loss 0.0757
+Loss 0.0755
+Loss 0.0760
+Epoch 25 completed: Loss 0.0760 Accuracy 1.00
+Loss 0.0752
+Loss 0.0753
+Loss 0.0753
+Loss 0.0753
+Loss 0.0751
+Loss 0.0748
+Loss 0.0747
+Loss 0.0745
+Loss 0.0744
+Loss 0.0743
+Loss 0.0740
+Epoch 26 completed: Loss 0.0740 Accuracy 1.00
+Loss 0.0741
+Loss 0.0737
+Loss 0.0740
+Loss 0.0737
+Loss 0.0733
+Loss 0.0735
+Loss 0.0732
+Loss 0.0734
+Loss 0.0730
+Loss 0.0727
+Loss 0.0725
+Epoch 27 completed: Loss 0.0725 Accuracy 1.00
+Loss 0.0725
+Loss 0.0724
+Loss 0.0725
+Loss 0.0724
+Loss 0.0722
+Loss 0.0720
+Loss 0.0720
+Loss 0.0719
+Loss 0.0719
+Loss 0.0713
+Loss 0.0711
+Epoch 28 completed: Loss 0.0711 Accuracy 1.00
+Loss 0.0718
+Loss 0.0711
+Loss 0.0714
+Loss 0.0711
+Loss 0.0711
+Loss 0.0709
+Loss 0.0709
+Loss 0.0711
+Loss 0.0706
+Loss 0.0706
+Loss 0.0706
+Epoch 29 completed: Loss 0.0706 Accuracy 1.00
+Loss 0.0704
+Loss 0.0701
+Loss 0.0701
+Loss 0.0696
+Loss 0.0700
+Loss 0.0702
+Loss 0.0701
+Loss 0.0697
+Loss 0.0699
+Loss 0.0695
+Loss 0.0699
+Epoch 30 completed: Loss 0.0699 Accuracy 1.00
+Loss 0.0697
+Loss 0.0694
+Loss 0.0693
+Loss 0.0690
+Loss 0.0695
+Loss 0.0688
+Loss 0.0687
+Loss 0.0688
+Loss 0.0684
+Loss 0.0687
+Loss 0.0683
+Epoch 31 completed: Loss 0.0683 Accuracy 1.00
+Loss 0.0683
+Loss 0.0687
+Loss 0.0685
+Loss 0.0681
+Loss 0.0680
+Loss 0.0679
+Loss 0.0681
+Loss 0.0680
+Loss 0.0679
+Loss 0.0679
+Loss 0.0681
+Epoch 32 completed: Loss 0.0681 Accuracy 1.00
+Loss 0.0672
+Loss 0.0674
+Loss 0.0670
+Loss 0.0672
+Loss 0.0670
+Loss 0.0670
+Loss 0.0671
+Loss 0.0669
+Loss 0.0666
+Loss 0.0669
+Loss 0.0667
+Epoch 33 completed: Loss 0.0667 Accuracy 1.00
+Loss 0.0668
+Loss 0.0663
+Loss 0.0665
+Loss 0.0663
+Loss 0.0662
+Loss 0.0665
+Loss 0.0660
+Loss 0.0663
+Loss 0.0659
+Loss 0.0658
+Loss 0.0657
+Epoch 34 completed: Loss 0.0657 Accuracy 1.00
+Loss 0.0657
+Loss 0.0656
+Loss 0.0659
+Loss 0.0655
+Loss 0.0654
+Loss 0.0654
+Loss 0.0655
+Loss 0.0654
+Loss 0.0651
+Loss 0.0652
+Loss 0.0645
+Epoch 35 completed: Loss 0.0645 Accuracy 1.00
+Loss 0.0649
+Loss 0.0652
+Loss 0.0651
+Loss 0.0650
+Loss 0.0648
+Loss 0.0646
+Loss 0.0647
+Loss 0.0645
+Loss 0.0646
+Loss 0.0645
+Loss 0.0641
+Epoch 36 completed: Loss 0.0641 Accuracy 1.00
+Loss 0.0644
+Loss 0.0639
+Loss 0.0644
+Loss 0.0637
+Loss 0.0645
+Loss 0.0641
+Loss 0.0639
+Loss 0.0638
+Loss 0.0636
+Loss 0.0638
+Loss 0.0634
+Epoch 37 completed: Loss 0.0634 Accuracy 1.00
+Loss 0.0638
+Loss 0.0635
+Loss 0.0632
+Loss 0.0633
+Loss 0.0635
+Loss 0.0633
+Loss 0.0634
+Loss 0.0634
+Loss 0.0634
+Loss 0.0629
+Loss 0.0630
+Epoch 38 completed: Loss 0.0630 Accuracy 1.00
+Loss 0.0630
+Loss 0.0629
+Loss 0.0625
+Loss 0.0629
+Loss 0.0626
+Loss 0.0628
+Loss 0.0628
+Loss 0.0625
+Loss 0.0626
+Loss 0.0627
+Loss 0.0628
+Epoch 39 completed: Loss 0.0628 Accuracy 1.00
+Loss 0.0624
+Loss 0.0623
+Loss 0.0622
+Loss 0.0625
+Loss 0.0621
+Loss 0.0622
+Loss 0.0621
+Loss 0.0619
+Loss 0.0619
+Loss 0.0618
+Loss 0.0622
+Epoch 40 completed: Loss 0.0622 Accuracy 1.00
+Loss 0.0617
+Loss 0.0621
+Loss 0.0616
+Loss 0.0616
+Loss 0.0616
+Loss 0.0611
+Loss 0.0616
+Loss 0.0615
+Loss 0.0614
+Loss 0.0611
+Loss 0.0609
+Epoch 41 completed: Loss 0.0609 Accuracy 1.00
+Loss 0.0613
+Loss 0.0611
+Loss 0.0610
+Loss 0.0609
+Loss 0.0609
+Loss 0.0614
+Loss 0.0610
+Loss 0.0609
+Loss 0.0606
+Loss 0.0607
+Loss 0.0611
+Epoch 42 completed: Loss 0.0611 Accuracy 1.00
+Loss 0.0608
+Loss 0.0607
+Loss 0.0603
+Loss 0.0609
+Loss 0.0606
+Loss 0.0603
+Loss 0.0607
+Loss 0.0606
+Loss 0.0606
+Loss 0.0601
+Loss 0.0609
+Epoch 43 completed: Loss 0.0609 Accuracy 1.00
+Loss 0.0599
+Loss 0.0600
+Loss 0.0599
+Loss 0.0603
+Loss 0.0600
+Loss 0.0602
+Loss 0.0597
+Loss 0.0600
+Loss 0.0597
+Loss 0.0596
+Loss 0.0599
+Epoch 44 completed: Loss 0.0599 Accuracy 1.00
+Loss 0.0598
+Loss 0.0598
+Loss 0.0600
+Loss 0.0595
+Loss 0.0593
+Loss 0.0595
+Loss 0.0597
+Loss 0.0594
+Loss 0.0591
+Loss 0.0593
+Loss 0.0589
+Epoch 45 completed: Loss 0.0589 Accuracy 1.00
+Loss 0.0596
+Loss 0.0596
+Loss 0.0591
+Loss 0.0589
+Loss 0.0592
+Loss 0.0588
+Loss 0.0592
+Loss 0.0589
+Loss 0.0586
+Loss 0.0588
+Loss 0.0600
+Epoch 46 completed: Loss 0.0600 Accuracy 1.00
+Loss 0.0589
+Loss 0.0589
+Loss 0.0592
+Loss 0.0582
+Loss 0.0585
+Loss 0.0585
+Loss 0.0588
+Loss 0.0586
+Loss 0.0586
+Loss 0.0585
+Loss 0.0580
+Epoch 47 completed: Loss 0.0580 Accuracy 1.00
+Loss 0.0582
+Loss 0.0583
+Loss 0.0582
+Loss 0.0582
+Loss 0.0582
+Loss 0.0580
+Loss 0.0582
+Loss 0.0578
+Loss 0.0580
+Loss 0.0583
+Loss 0.0585
+Epoch 48 completed: Loss 0.0585 Accuracy 1.00
+Loss 0.0582
+Loss 0.0582
+Loss 0.0576
+Loss 0.0580
+Loss 0.0580
+Loss 0.0579
+Loss 0.0576
+Loss 0.0578
+Loss 0.0576
+Loss 0.0576
+Loss 0.0578
+Epoch 49 completed: Loss 0.0578 Accuracy 1.00
+Loss 0.0575
+Loss 0.0577
+Loss 0.0577
+Loss 0.0574
+Loss 0.0574
+Loss 0.0576
+Loss 0.0575
+Loss 0.0573
+Loss 0.0574
+Loss 0.0573
+Loss 0.0574
+Epoch 50 completed: Loss 0.0574 Accuracy 1.00
+Loss 0.0570
+Loss 0.0571
+Loss 0.0571
+Loss 0.0572
+Loss 0.0569
+Loss 0.0573
+Loss 0.0572
+Loss 0.0569
+Loss 0.0570
+Loss 0.0572
+Loss 0.0567
+Epoch 51 completed: Loss 0.0567 Accuracy 1.00
+Loss 0.0568
+Loss 0.0566
+Loss 0.0563
+Loss 0.0567
+Loss 0.0570
+Loss 0.0567
+Loss 0.0568
+Loss 0.0567
+Loss 0.0567
+Loss 0.0565
+Loss 0.0567
+Epoch 52 completed: Loss 0.0567 Accuracy 1.00
+Loss 0.0566
+Loss 0.0564
+Loss 0.0566
+Loss 0.0561
+Loss 0.0564
+Loss 0.0565
+Loss 0.0563
+Loss 0.0565
+Loss 0.0559
+Loss 0.0565
+Loss 0.0556
+Epoch 53 completed: Loss 0.0556 Accuracy 1.00
+Loss 0.0561
+Loss 0.0560
+Loss 0.0558
+Loss 0.0564
+Loss 0.0562
+Loss 0.0561
+Loss 0.0559
+Loss 0.0559
+Loss 0.0560
+Loss 0.0560
+Loss 0.0556
+Epoch 54 completed: Loss 0.0556 Accuracy 1.00
+Loss 0.0557
+Loss 0.0556
+Loss 0.0559
+Loss 0.0558
+Loss 0.0560
+Loss 0.0558
+Loss 0.0559
+Loss 0.0557
+Loss 0.0557
+Loss 0.0557
+Loss 0.0556
+Epoch 55 completed: Loss 0.0556 Accuracy 1.00
+Loss 0.0555
+Loss 0.0554
+Loss 0.0553
+Loss 0.0553
+Loss 0.0554
+Loss 0.0556
+Loss 0.0554
+Loss 0.0552
+Loss 0.0553
+Loss 0.0556
+Loss 0.0558
+Epoch 56 completed: Loss 0.0558 Accuracy 1.00
+Loss 0.0553
+Loss 0.0554
+Loss 0.0553
+Loss 0.0552
+Loss 0.0553
+Loss 0.0551
+Loss 0.0552
+Loss 0.0550
+Loss 0.0549
+Loss 0.0547
+Loss 0.0558
+Epoch 57 completed: Loss 0.0558 Accuracy 1.00
+Loss 0.0550
+Loss 0.0546
+Loss 0.0550
+Loss 0.0548
+Loss 0.0547
+Loss 0.0547
+Loss 0.0549
+Loss 0.0546
+Loss 0.0548
+Loss 0.0551
+Loss 0.0545
+Epoch 58 completed: Loss 0.0545 Accuracy 1.00
+Loss 0.0551
+Loss 0.0546
+Loss 0.0549
+Loss 0.0549
+Loss 0.0544
+Loss 0.0547
+Loss 0.0545
+Loss 0.0548
+Loss 0.0543
+Loss 0.0546
+Loss 0.0547
+Epoch 59 completed: Loss 0.0547 Accuracy 1.00
+Loss 0.0547
+Loss 0.0542
+Loss 0.0542
+Loss 0.0541
+Loss 0.0544
+Loss 0.0547
+Loss 0.0543
+Loss 0.0545
+Loss 0.0541
+Loss 0.0541
+Loss 0.0538
+Epoch 60 completed: Loss 0.0538 Accuracy 1.00
+Loss 0.0542
+Loss 0.0543
+Loss 0.0541
+Loss 0.0540
+Loss 0.0539
+Loss 0.0542
+Loss 0.0538
+Loss 0.0538
+Loss 0.0540
+Loss 0.0536
+Loss 0.0546
+Epoch 61 completed: Loss 0.0546 Accuracy 1.00
+Loss 0.0539
+Loss 0.0538
+Loss 0.0536
+Loss 0.0541
+Loss 0.0538
+Loss 0.0536
+Loss 0.0541
+Loss 0.0536
+Loss 0.0538
+Loss 0.0538
+Loss 0.0537
+Epoch 62 completed: Loss 0.0537 Accuracy 1.00
+Loss 0.0537
+Loss 0.0534
+Loss 0.0536
+Loss 0.0536
+Loss 0.0538
+Loss 0.0535
+Loss 0.0535
+Loss 0.0538
+Loss 0.0531
+Loss 0.0534
+Loss 0.0535
+Epoch 63 completed: Loss 0.0535 Accuracy 1.00
+Epoch 56 completed: Loss 0.0558 Accuracy 1.00
+Epoch 57 in progress:
+Loss 0.0553
+Loss 0.0554
+Loss 0.0553
+Loss 0.0552
+Loss 0.0553
+Loss 0.0551
+Loss 0.0552
+Loss 0.0550
+Loss 0.0549
+Loss 0.0547
+Loss 0.0558
+Epoch 57 completed: Loss 0.0558 Accuracy 1.00
+Epoch 58 in progress:
+Loss 0.0550
+Loss 0.0546
+Loss 0.0550
+Loss 0.0548
+Loss 0.0547
+Loss 0.0547
+Loss 0.0549
+Loss 0.0546
+Loss 0.0548
+Loss 0.0551
+Loss 0.0545
+Epoch 58 completed: Loss 0.0545 Accuracy 1.00
+Epoch 59 in progress:
+Loss 0.0551
+Loss 0.0546
+Loss 0.0549
+Loss 0.0549
+Loss 0.0544
+Loss 0.0547
+Loss 0.0545
+Loss 0.0548
+Loss 0.0543
+Loss 0.0546
+Loss 0.0547
+Epoch 59 completed: Loss 0.0547 Accuracy 1.00
+Epoch 60 in progress:
+Loss 0.0547
+Loss 0.0542
+Loss 0.0542
+Loss 0.0541
+Loss 0.0544
+Loss 0.0547
+Loss 0.0543
+Loss 0.0545
+Loss 0.0541
+Loss 0.0541
+Loss 0.0538
+Epoch 60 completed: Loss 0.0538 Accuracy 1.00
+Epoch 61 in progress:
+Loss 0.0542
+Loss 0.0543
+Loss 0.0541
+Loss 0.0540
+Loss 0.0539
+Loss 0.0542
+Loss 0.0538
+Loss 0.0538
+Loss 0.0540
+Loss 0.0536
+Loss 0.0546
+Epoch 61 completed: Loss 0.0546 Accuracy 1.00
+Epoch 62 in progress:
+Loss 0.0539
+Loss 0.0538
+Loss 0.0536
+Loss 0.0541
+Loss 0.0538
+Loss 0.0536
+Loss 0.0541
+Loss 0.0536
+Loss 0.0538
+Loss 0.0538
+Loss 0.0537
+Epoch 62 completed: Loss 0.0537 Accuracy 1.00
+Epoch 63 in progress:
+Loss 0.0537
+Loss 0.0534
+Loss 0.0536
+Loss 0.0536
+Loss 0.0538
+Loss 0.0535
+Loss 0.0535
+Loss 0.0538
+Loss 0.0531
+Loss 0.0534
+Loss 0.0535
+Epoch 63 completed: Loss 0.0535 Accuracy 1.00
+Epoch 64 in progress:
+Loss 0.0535
+Loss 0.0533
+Loss 0.0531
+Loss 0.0533
+Loss 0.0535
+Loss 0.0531
+Loss 0.0531
+Loss 0.0534
+Loss 0.0533
+Loss 0.0531
+Loss 0.0530
+Epoch 64 completed: Loss 0.0530 Accuracy 1.00
+Epoch 65 in progress:
+Loss 0.0532
+Loss 0.0532
+Loss 0.0531
+Loss 0.0530
+Loss 0.0534
+Loss 0.0530
+Loss 0.0527
+Loss 0.0530
+Loss 0.0528
+Loss 0.0530
+Loss 0.0528
+Epoch 65 completed: Loss 0.0528 Accuracy 1.00
+Epoch 66 in progress:
+Loss 0.0530
+Loss 0.0531
+Loss 0.0533
+Loss 0.0527
+Loss 0.0527
+Loss 0.0532
+Loss 0.0526
+Loss 0.0528
+Loss 0.0529
+Loss 0.0529
+Loss 0.0530
+Epoch 66 completed: Loss 0.0530 Accuracy 1.00
+Epoch 67 in progress:
+Loss 0.0529
+Loss 0.0526
+Loss 0.0523
+Loss 0.0527
+Loss 0.0528
+Loss 0.0526
+Loss 0.0525
+Loss 0.0526
+Loss 0.0527
+Loss 0.0528
+Loss 0.0529
+Epoch 67 completed: Loss 0.0529 Accuracy 1.00
+Epoch 68 in progress:
+Loss 0.0524
+Loss 0.0527
+Loss 0.0526
+Loss 0.0524
+Loss 0.0520
+Loss 0.0522
+Loss 0.0524
+Loss 0.0523
+Loss 0.0523
+Loss 0.0524
+Loss 0.0526
+Epoch 68 completed: Loss 0.0526 Accuracy 1.00
+Epoch 69 in progress:
+Loss 0.0521
+Loss 0.0524
+Loss 0.0521
+Loss 0.0524
+Loss 0.0524
+Loss 0.0523
+Loss 0.0524
+Loss 0.0522
+Loss 0.0524
+Loss 0.0524
+Loss 0.0529
+Epoch 69 completed: Loss 0.0529 Accuracy 1.00
+Epoch 70 in progress:
+Loss 0.0522
+Loss 0.0522
+Loss 0.0522
+Loss 0.0518
+Loss 0.0519
+Loss 0.0520
+Loss 0.0522
+Loss 0.0519
+Loss 0.0519
+Loss 0.0517
+Loss 0.0519
+Epoch 70 completed: Loss 0.0519 Accuracy 1.00
+Epoch 71 in progress:
+Loss 0.0519
+Loss 0.0518
+Loss 0.0519
+Loss 0.0514
+Loss 0.0522
+Loss 0.0521
+Loss 0.0517
+Loss 0.0518
+Loss 0.0518
+Loss 0.0517
+Loss 0.0510
+Epoch 71 completed: Loss 0.0510 Accuracy 1.00
+Epoch 72 in progress:
+Loss 0.0519
+Loss 0.0517
+Loss 0.0520
+Loss 0.0519
+Loss 0.0516
+Loss 0.0516
+Loss 0.0521
+Loss 0.0518
+Loss 0.0518
+Loss 0.0518
+Loss 0.0518
+Epoch 72 completed: Loss 0.0518 Accuracy 1.00
+Epoch 73 in progress:
+Loss 0.0517
+Loss 0.0513
+Loss 0.0514
+Loss 0.0516
+Loss 0.0515
+Loss 0.0517
+Loss 0.0509
+Loss 0.0511
+Loss 0.0515
+Loss 0.0515
+Loss 0.0513
+Epoch 73 completed: Loss 0.0513 Accuracy 1.00
+Epoch 74 in progress:
+Loss 0.0513
+Loss 0.0517
+Loss 0.0516
+Loss 0.0517
+Loss 0.0513
+Loss 0.0513
+Loss 0.0512
+Loss 0.0516
+Loss 0.0514
+Loss 0.0509
+Loss 0.0514
+Epoch 74 completed: Loss 0.0514 Accuracy 1.00
+Epoch 75 in progress:
+Loss 0.0512
+Loss 0.0515
+Loss 0.0514
+Loss 0.0512
+Loss 0.0512
+Loss 0.0514
+Loss 0.0514
+Loss 0.0512
+Loss 0.0510
+Loss 0.0510
+Loss 0.0522
+Epoch 75 completed: Loss 0.0522 Accuracy 1.00
+Epoch 76 in progress:
+Loss 0.0509
+Loss 0.0510
+Loss 0.0513
+Loss 0.0513
+Loss 0.0510
+Loss 0.0512
+Loss 0.0509
+Loss 0.0512
+Loss 0.0510
+Loss 0.0509
+Loss 0.0510
+Epoch 76 completed: Loss 0.0510 Accuracy 1.00
+Epoch 77 in progress:
+Loss 0.0508
+Loss 0.0508
+Loss 0.0510
+Loss 0.0511
+Loss 0.0508
+Loss 0.0511
+Loss 0.0507
+Loss 0.0508
+Loss 0.0508
+Loss 0.0508
+Loss 0.0512
+Epoch 77 completed: Loss 0.0512 Accuracy 1.00
+Epoch 78 in progress:
+Loss 0.0507
+Loss 0.0508
+Loss 0.0507
+Loss 0.0508
+Loss 0.0507
+Loss 0.0507
+Loss 0.0506
+Loss 0.0504
+Loss 0.0507
+Loss 0.0506
+Loss 0.0508
+Epoch 78 completed: Loss 0.0508 Accuracy 1.00
+Epoch 79 in progress:
+Loss 0.0503
+Loss 0.0506
+Loss 0.0508
+Loss 0.0508
+Loss 0.0505
+Loss 0.0503
+Loss 0.0506
+Loss 0.0504
+Loss 0.0502
+Loss 0.0502
+Loss 0.0511
+Epoch 79 completed: Loss 0.0511 Accuracy 1.00
+Epoch 80 in progress:
+Loss 0.0505
+Loss 0.0503
+Loss 0.0504
+Loss 0.0505
+Loss 0.0505
+Loss 0.0500
+Loss 0.0503
+Loss 0.0503
+Loss 0.0504
+Loss 0.0506
+Loss 0.0510
+Epoch 80 completed: Loss 0.0510 Accuracy 1.00
+Epoch 81 in progress:
+Loss 0.0501
+Loss 0.0502
+Loss 0.0502
+Loss 0.0505
+Loss 0.0501
+Loss 0.0504
+Loss 0.0504
+Loss 0.0502
+Loss 0.0502
+Loss 0.0503
+Loss 0.0505
+Epoch 81 completed: Loss 0.0505 Accuracy 1.00
+Epoch 82 in progress:
+Loss 0.0503
+Loss 0.0499
+Loss 0.0501
+Loss 0.0503
+Loss 0.0502
+Loss 0.0500
+Loss 0.0505
+Loss 0.0500
+Loss 0.0504
+Loss 0.0500
+Loss 0.0505
+Epoch 82 completed: Loss 0.0505 Accuracy 1.00
+Epoch 83 in progress:
+Loss 0.0498
+Loss 0.0502
+Loss 0.0500
+Loss 0.0501
+Loss 0.0501
+Loss 0.0499
+Loss 0.0501
+Loss 0.0500
+Loss 0.0500
+Loss 0.0500
+Loss 0.0491
+Epoch 83 completed: Loss 0.0491 Accuracy 1.00
+Epoch 84 in progress:
+Loss 0.0499
+Loss 0.0498
+Loss 0.0499
+Loss 0.0496
+Loss 0.0494
+Loss 0.0495
+Loss 0.0499
+Loss 0.0499
+Loss 0.0500
+Loss 0.0499
+Loss 0.0497
+Epoch 84 completed: Loss 0.0497 Accuracy 1.00
+Epoch 85 in progress:
+Loss 0.0499
+Loss 0.0498
+Loss 0.0499
+Loss 0.0497
+Loss 0.0498
+Loss 0.0496
+Loss 0.0497
+Loss 0.0494
+Loss 0.0498
+Loss 0.0494
+Loss 0.0496
+Epoch 85 completed: Loss 0.0496 Accuracy 1.00
+Epoch 86 in progress:
+Loss 0.0497
+Loss 0.0499
+Loss 0.0499
+Loss 0.0495
+Loss 0.0495
+Loss 0.0497
+Loss 0.0497
+Loss 0.0495
+Loss 0.0497
+Loss 0.0495
+Loss 0.0497
+Epoch 86 completed: Loss 0.0497 Accuracy 1.00
+Epoch 87 in progress:
+Loss 0.0494
+Loss 0.0497
+Loss 0.0495
+Loss 0.0494
+Loss 0.0495
+Loss 0.0495
+Loss 0.0493
+Loss 0.0495
+Loss 0.0495
+Loss 0.0497
+Loss 0.0489
+Epoch 87 completed: Loss 0.0489 Accuracy 1.00
+Epoch 88 in progress:
+Loss 0.0496
+Loss 0.0495
+Loss 0.0493
+Loss 0.0497
+Loss 0.0493
+Loss 0.0497
+Loss 0.0493
+Loss 0.0496
+Loss 0.0493
+Loss 0.0495
+Loss 0.0498
+Epoch 88 completed: Loss 0.0498 Accuracy 1.00
+Epoch 89 in progress:
+Loss 0.0492
+Loss 0.0492
+Loss 0.0493
+Loss 0.0492
+Loss 0.0494
+Loss 0.0496
+Loss 0.0492
+Loss 0.0494
+Loss 0.0494
+Loss 0.0494
+Loss 0.0495
+Epoch 89 completed: Loss 0.0495 Accuracy 1.00
+Epoch 90 in progress:
+Loss 0.0493
+Loss 0.0493
+Loss 0.0491
+Loss 0.0493
+Loss 0.0490
+Loss 0.0491
+Loss 0.0492
+Loss 0.0492
+Loss 0.0493
+Loss 0.0487
+Loss 0.0488
+Epoch 90 completed: Loss 0.0488 Accuracy 1.00
+Epoch 91 in progress:
+Loss 0.0489
+Loss 0.0491
+Loss 0.0490
+Loss 0.0490
+Loss 0.0490
+Loss 0.0490
+Loss 0.0491
+Loss 0.0492
+Loss 0.0487
+Loss 0.0490
+Loss 0.0492
+Epoch 91 completed: Loss 0.0492 Accuracy 1.00
+Epoch 92 in progress:
+Loss 0.0488
+Loss 0.0489
+Loss 0.0491
+Loss 0.0491
+Loss 0.0488
+Loss 0.0489
+Loss 0.0486
+Loss 0.0489
+Loss 0.0490
+Loss 0.0486
+Loss 0.0484
+Epoch 92 completed: Loss 0.0484 Accuracy 1.00
+Epoch 93 in progress:
+Loss 0.0488
+Loss 0.0489
+Loss 0.0487
+Loss 0.0491
+Loss 0.0487
+Loss 0.0489
+Loss 0.0489
+Loss 0.0487
+Loss 0.0488
+Loss 0.0491
+Loss 0.0483
+Epoch 93 completed: Loss 0.0483 Accuracy 1.00
+Epoch 94 in progress:
+Loss 0.0491
+Loss 0.0486
+Loss 0.0490
+Loss 0.0487
+Loss 0.0489
+Loss 0.0488
+Loss 0.0486
+Loss 0.0486
+Loss 0.0487
+Loss 0.0487
+Loss 0.0479
+Epoch 94 completed: Loss 0.0479 Accuracy 1.00
+Epoch 95 in progress:
+Loss 0.0486
+Loss 0.0486
+Loss 0.0485
+Loss 0.0488
+Loss 0.0485
+Loss 0.0485
+Loss 0.0485
+Loss 0.0485
+Loss 0.0489
+Loss 0.0488
+Loss 0.0487
+Epoch 95 completed: Loss 0.0487 Accuracy 1.00
+Epoch 96 in progress:
+Loss 0.0489
+Loss 0.0485
+Loss 0.0485
+Loss 0.0484
+Loss 0.0486
+Loss 0.0483
+Loss 0.0485
+Loss 0.0484
+Loss 0.0483
+Loss 0.0488
+Loss 0.0484
+Epoch 96 completed: Loss 0.0484 Accuracy 1.00
+Epoch 97 in progress:
+Loss 0.0489
+Loss 0.0484
+Loss 0.0484
+Loss 0.0486
+Loss 0.0484
+Loss 0.0486
+Loss 0.0485
+Loss 0.0486
+Loss 0.0482
+Loss 0.0483
+INFO:root:====Communication Stats====
+INFO:root:Rounds: 125704
+INFO:root:Bytes: 20558750560
+INFO:root:Communication time: 11549.745696898433
+Loss 0.0478
+Epoch 97 completed: Loss 0.0478 Accuracy 1.00
+Epoch 98 in progress:
+Loss 0.0484
+Loss 0.0486
+Loss 0.0484
+Loss 0.0486
+Loss 0.0481
+Loss 0.0482
+Loss 0.0484
+Loss 0.0483
+Loss 0.0481
+Loss 0.0482
+Loss 0.0487
+Epoch 98 completed: Loss 0.0487 Accuracy 1.00
+Epoch 99 in progress:
+Loss 0.0482
+Loss 0.0481
+Loss 0.0479
+Loss 0.0485
+Loss 0.0482
+Loss 0.0483
+Loss 0.0479
+Loss 0.0482
+Loss 0.0477
+Loss 0.0478
+Loss 0.0482
+Epoch 99 completed: Loss 0.0482 Accuracy 1.00
+Loss 0.0535
+Loss 0.0533
+Loss 0.0531
+Loss 0.0533
+Loss 0.0535
+Loss 0.0531
+Loss 0.0531
+Loss 0.0534
+Loss 0.0533
+Loss 0.0531
+Loss 0.0530
+Epoch 64 completed: Loss 0.0530 Accuracy 1.00
+Loss 0.0532
+Loss 0.0532
+Loss 0.0531
+Loss 0.0530
+Loss 0.0534
+Loss 0.0530
+Loss 0.0527
+Loss 0.0530
+Loss 0.0528
+Loss 0.0530
+Loss 0.0528
+Epoch 65 completed: Loss 0.0528 Accuracy 1.00
+Loss 0.0530
+Loss 0.0531
+Loss 0.0533
+Loss 0.0527
+Loss 0.0527
+Loss 0.0532
+Loss 0.0526
+Loss 0.0528
+Loss 0.0529
+Loss 0.0529
+Loss 0.0530
+Epoch 66 completed: Loss 0.0530 Accuracy 1.00
+Loss 0.0529
+Loss 0.0526
+Loss 0.0523
+Loss 0.0527
+Loss 0.0528
+Loss 0.0526
+Loss 0.0525
+Loss 0.0526
+Loss 0.0527
+Loss 0.0528
+Loss 0.0529
+Epoch 67 completed: Loss 0.0529 Accuracy 1.00
+Loss 0.0524
+Loss 0.0527
+Loss 0.0526
+Loss 0.0524
+Loss 0.0520
+Loss 0.0522
+Loss 0.0524
+Loss 0.0523
+Loss 0.0523
+Loss 0.0524
+Loss 0.0526
+Epoch 68 completed: Loss 0.0526 Accuracy 1.00
+Loss 0.0521
+Loss 0.0524
+Loss 0.0521
+Loss 0.0524
+Loss 0.0524
+Loss 0.0523
+Loss 0.0524
+Loss 0.0522
+Loss 0.0524
+Loss 0.0524
+Loss 0.0529
+Epoch 69 completed: Loss 0.0529 Accuracy 1.00
+Loss 0.0522
+Loss 0.0522
+Loss 0.0522
+Loss 0.0518
+Loss 0.0519
+Loss 0.0520
+Loss 0.0522
+Loss 0.0519
+Loss 0.0519
+Loss 0.0517
+Loss 0.0519
+Epoch 70 completed: Loss 0.0519 Accuracy 1.00
+Loss 0.0519
+Loss 0.0518
+Loss 0.0519
+Loss 0.0514
+Loss 0.0522
+Loss 0.0521
+Loss 0.0517
+Loss 0.0518
+Loss 0.0518
+Loss 0.0517
+Loss 0.0510
+Epoch 71 completed: Loss 0.0510 Accuracy 1.00
+Loss 0.0519
+Loss 0.0517
+Loss 0.0520
+Loss 0.0519
+Loss 0.0516
+Loss 0.0516
+Loss 0.0521
+Loss 0.0518
+Loss 0.0518
+Loss 0.0518
+Loss 0.0518
+Epoch 72 completed: Loss 0.0518 Accuracy 1.00
+Loss 0.0517
+Loss 0.0513
+Loss 0.0514
+Loss 0.0516
+Loss 0.0515
+Loss 0.0517
+Loss 0.0509
+Loss 0.0511
+Loss 0.0515
+Loss 0.0515
+Loss 0.0513
+Epoch 73 completed: Loss 0.0513 Accuracy 1.00
+Loss 0.0513
+Loss 0.0517
+Loss 0.0516
+Loss 0.0517
+Loss 0.0513
+Loss 0.0513
+Loss 0.0512
+Loss 0.0516
+Loss 0.0514
+Loss 0.0509
+Loss 0.0514
+Epoch 74 completed: Loss 0.0514 Accuracy 1.00
+Loss 0.0512
+Loss 0.0515
+Loss 0.0514
+Loss 0.0512
+Loss 0.0512
+Loss 0.0514
+Loss 0.0514
+Loss 0.0512
+Loss 0.0510
+Loss 0.0510
+Loss 0.0522
+Epoch 75 completed: Loss 0.0522 Accuracy 1.00
+Loss 0.0509
+Loss 0.0510
+Loss 0.0513
+Loss 0.0513
+Loss 0.0510
+Loss 0.0512
+Loss 0.0509
+Loss 0.0512
+Loss 0.0510
+Loss 0.0509
+Loss 0.0510
+Epoch 76 completed: Loss 0.0510 Accuracy 1.00
+Loss 0.0508
+Loss 0.0508
+Loss 0.0510
+Loss 0.0511
+Loss 0.0508
+Loss 0.0511
+Loss 0.0507
+Loss 0.0508
+Loss 0.0508
+Loss 0.0508
+Loss 0.0512
+Epoch 77 completed: Loss 0.0512 Accuracy 1.00
+Loss 0.0507
+Loss 0.0508
+Loss 0.0507
+Loss 0.0508
+Loss 0.0507
+Loss 0.0507
+Loss 0.0506
+Loss 0.0504
+Loss 0.0507
+Loss 0.0506
+Loss 0.0508
+Epoch 78 completed: Loss 0.0508 Accuracy 1.00
+Loss 0.0503
+Loss 0.0506
+Loss 0.0508
+Loss 0.0508
+Loss 0.0505
+Loss 0.0503
+Loss 0.0506
+Loss 0.0504
+Loss 0.0502
+Loss 0.0502
+Loss 0.0511
+Epoch 79 completed: Loss 0.0511 Accuracy 1.00
+Loss 0.0505
+Loss 0.0503
+Loss 0.0504
+Loss 0.0505
+Loss 0.0505
+Loss 0.0500
+Loss 0.0503
+Loss 0.0503
+Loss 0.0504
+Loss 0.0506
+Loss 0.0510
+Epoch 80 completed: Loss 0.0510 Accuracy 1.00
+Loss 0.0501
+Loss 0.0502
+Loss 0.0502
+Loss 0.0505
+Loss 0.0501
+Loss 0.0504
+Loss 0.0504
+Loss 0.0502
+Loss 0.0502
+Loss 0.0503
+Loss 0.0505
+Epoch 81 completed: Loss 0.0505 Accuracy 1.00
+Loss 0.0503
+Loss 0.0499
+Loss 0.0501
+Loss 0.0503
+Loss 0.0502
+Loss 0.0500
+Loss 0.0505
+Loss 0.0500
+Loss 0.0504
+Loss 0.0500
+Loss 0.0505
+Epoch 82 completed: Loss 0.0505 Accuracy 1.00
+Loss 0.0498
+Loss 0.0502
+Loss 0.0500
+Loss 0.0501
+Loss 0.0501
+Loss 0.0499
+Loss 0.0501
+Loss 0.0500
+Loss 0.0500
+Loss 0.0500
+Loss 0.0491
+Epoch 83 completed: Loss 0.0491 Accuracy 1.00
+Loss 0.0499
+Loss 0.0498
+Loss 0.0499
+Loss 0.0496
+Loss 0.0494
+Loss 0.0495
+Loss 0.0499
+Loss 0.0499
+Loss 0.0500
+Loss 0.0499
+Loss 0.0497
+Epoch 84 completed: Loss 0.0497 Accuracy 1.00
+Loss 0.0499
+Loss 0.0498
+Loss 0.0499
+Loss 0.0497
+Loss 0.0498
+Loss 0.0496
+Loss 0.0497
+Loss 0.0494
+Loss 0.0498
+Loss 0.0494
+Loss 0.0496
+Epoch 85 completed: Loss 0.0496 Accuracy 1.00
+Loss 0.0497
+Loss 0.0499
+Loss 0.0499
+Loss 0.0495
+Loss 0.0495
+Loss 0.0497
+Loss 0.0497
+Loss 0.0495
+Loss 0.0497
+Loss 0.0495
+Loss 0.0497
+Epoch 86 completed: Loss 0.0497 Accuracy 1.00
+Loss 0.0494
+Loss 0.0497
+Loss 0.0495
+Loss 0.0494
+Loss 0.0495
+Loss 0.0495
+Loss 0.0493
+Loss 0.0495
+Loss 0.0495
+Loss 0.0497
+Loss 0.0489
+Epoch 87 completed: Loss 0.0489 Accuracy 1.00
+Loss 0.0496
+Loss 0.0495
+Loss 0.0493
+Loss 0.0497
+Loss 0.0493
+Loss 0.0497
+Loss 0.0493
+Loss 0.0496
+Loss 0.0493
+Loss 0.0495
+Loss 0.0498
+Epoch 88 completed: Loss 0.0498 Accuracy 1.00
+Loss 0.0492
+Loss 0.0492
+Loss 0.0493
+Loss 0.0492
+Loss 0.0494
+Loss 0.0496
+Loss 0.0492
+Loss 0.0494
+Loss 0.0494
+Loss 0.0494
+Loss 0.0495
+Epoch 89 completed: Loss 0.0495 Accuracy 1.00
+Loss 0.0493
+Loss 0.0493
+Loss 0.0491
+Loss 0.0493
+Loss 0.0490
+Loss 0.0491
+Loss 0.0492
+Loss 0.0492
+Loss 0.0493
+Loss 0.0487
+Loss 0.0488
+Epoch 90 completed: Loss 0.0488 Accuracy 1.00
+Loss 0.0489
+Loss 0.0491
+Loss 0.0490
+Loss 0.0490
+Loss 0.0490
+Loss 0.0490
+Loss 0.0491
+Loss 0.0492
+Loss 0.0487
+Loss 0.0490
+Loss 0.0492
+Epoch 91 completed: Loss 0.0492 Accuracy 1.00
+Loss 0.0488
+Loss 0.0489
+Loss 0.0491
+Loss 0.0491
+Loss 0.0488
+Loss 0.0489
+Loss 0.0486
+Loss 0.0489
+Loss 0.0490
+Loss 0.0486
+Loss 0.0484
+Epoch 92 completed: Loss 0.0484 Accuracy 1.00
+Loss 0.0488
+Loss 0.0489
+Loss 0.0487
+Loss 0.0491
+Loss 0.0487
+Loss 0.0489
+Loss 0.0489
+Loss 0.0487
+Loss 0.0488
+Loss 0.0491
+Loss 0.0483
+Epoch 93 completed: Loss 0.0483 Accuracy 1.00
+Loss 0.0491
+Loss 0.0486
+Loss 0.0490
+Loss 0.0487
+Loss 0.0489
+Loss 0.0488
+Loss 0.0486
+Loss 0.0486
+Loss 0.0487
+Loss 0.0487
+Loss 0.0479
+Epoch 94 completed: Loss 0.0479 Accuracy 1.00
+Loss 0.0486
+Loss 0.0486
+Loss 0.0485
+Loss 0.0488
+Loss 0.0485
+Loss 0.0485
+Loss 0.0485
+Loss 0.0485
+Loss 0.0489
+Loss 0.0488
+Loss 0.0487
+Epoch 95 completed: Loss 0.0487 Accuracy 1.00
+Loss 0.0489
+Loss 0.0485
+Loss 0.0485
+Loss 0.0484
+Loss 0.0486
+Loss 0.0483
+Loss 0.0485
+Loss 0.0484
+Loss 0.0483
+Loss 0.0488
+Loss 0.0484
+Epoch 96 completed: Loss 0.0484 Accuracy 1.00
+Loss 0.0489
+Loss 0.0484
+Loss 0.0484
+Loss 0.0486
+Loss 0.0484
+Loss 0.0486
+Loss 0.0485
+Loss 0.0486
+Loss 0.0482
+Loss 0.0483
+Loss 0.0478
+Epoch 97 completed: Loss 0.0478 Accuracy 1.00
+Loss 0.0484
+Loss 0.0486
+Loss 0.0484
+Loss 0.0486
+Loss 0.0481
+Loss 0.0482
+Loss 0.0484
+Loss 0.0483
+Loss 0.0481
+Loss 0.0482
+Loss 0.0487
+Epoch 98 completed: Loss 0.0487 Accuracy 1.00
+Loss 0.0482
+Loss 0.0481
+Loss 0.0479
+Loss 0.0485
+Loss 0.0482
+Loss 0.0483
+Loss 0.0479
+Loss 0.0482
+Loss 0.0477
+Loss 0.0478
+Loss 0.0482
+Epoch 99 completed: Loss 0.0482 Accuracy 1.00
+time= 11958.012413263321 s
+Monitoring usage: {276621: {'cpu_usage': 4192.3, 'mem_usage(MB)': 16192.015625}, 276622: {'cpu_usage': 4210.4, 'mem_usage(MB)': 15483.6640625}}
