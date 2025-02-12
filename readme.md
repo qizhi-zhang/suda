@@ -209,3 +209,9 @@ nohup bash run_test_payload.sh > run_test_payload.log 2>&1 &
 bash run_config.sh > run_config.log 2>&1 &
 ```
 
+## Run expirements in Table 1 (iPrivateJoin)
+
+```
+nohup bash run_test_fromfiles.sh > run_test_fromfiles.log 2>&1 &
+```
+
