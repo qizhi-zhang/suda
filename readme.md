@@ -4,6 +4,8 @@ This is the code for expierments in the paper "Suda: An Efficient and Secure Unb
 Vertical Privacy-Preserving Machine Learning". 
 
 # Requerments:
+
+## Hardware and software dependencies
 Intel(R) Xeon(R) Platinum 8260 ++
 
 memory 500 GB ++
@@ -11,15 +13,10 @@ memory 500 GB ++
 Debian GNU/Linux 10 (buster) ++  
 
 gcc 11.5.0++ 
+
 clang 18.1.8++
 
-
-
-
-# Run  expierments for our work:
-
-
-## Install dependencies
+## Third-party libraries 
 
 ```
 cd mpc_projects
@@ -33,7 +30,7 @@ bash volepsi.get
 
 ```
 
-If meet the error like
+If you meet an error like
 
 ```
 CMake Error at .../suda/volepsi/out/coproto/thirdparty/getBoost.cmake:67 (file):
@@ -43,7 +40,7 @@ expected hash: [1bed88e40401b2cb7a1f76d4bab499e352fa4d0c5f31c0dbae64e24d34d7513b
 actual hash: [79e6d3f986444e5a80afbeccdaf2d1c1cf964baa8d766d20859d653a16c39848]
 ```
 
-in running `bash volepsi.get` , replace the line 8 in getBoost.cmake to
+when running `bash volepsi.get`, replace the line 8 in the getBoost.cmake to
 
 ```
 set(URL "https://archives.boost.io/release/1.86.0/source/boost_1_86_0.tar.bz2")
@@ -54,6 +51,10 @@ and re-run
 ```
 bash volepsi.get
 ```
+
+
+
+# Run  expierments for our work:
 
 
 ## Setup:
