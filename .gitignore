@@ -2,6 +2,7 @@
 mpc_projects/build
 mpc_projects/src/third_party/*
 !mpc_projects/src/third_party/*.get
+!mpc_projects/src/third_party/*.deb
 iPrivJoin/build
 volepsi/out/*
 
