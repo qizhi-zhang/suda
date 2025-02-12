@@ -809,9 +809,12 @@ void psi_to_share_2party_socketopt(bool mode_switch, size_t host_log_n_data, siz
     std::cout<<"comm. from server to client: "<< (psi_response.byte_size() + response.str().size())/ 1024.0 << " KBytes"
             << std::endl;
 #endif
-                std::cout<<"sent bytes ="<<pss_server->get_sent_bytes()/1024.0<<"KB"<<std::endl;
-            std::cout<<"recv bytes ="<<pss_server->get_recv_bytes()/1024.0<<"KB"<<std::endl;
+                // std::cout<<"sent bytes ="<<pss_server->get_sent_bytes()/1024.0<<"KB"<<std::endl;
+            // std::cout<<"recv bytes ="<<pss_server->get_recv_bytes()/1024.0<<"KB"<<std::endl;
+                std::cout<<"comm. from server to client: "<< (psi_response.byte_size() + response.str().size())/ 1024.0 << " KBytes"
+            << std::endl;
             std::cout<<"mem usage of server: "<<GetMemoryUsage()<<"MB"<<std::endl;
+                  std::cout<<"total time of server="<<timer_total.elapsed()<<std::endl;
            }
 
                if (player==player_client){
@@ -836,9 +839,12 @@ void psi_to_share_2party_socketopt(bool mode_switch, size_t host_log_n_data, siz
     std::cout<< "comm. from client to server: "<< (psi_query.byte_size()+intersection_lastids.size() * sizeof(int32_t)+ query.byte_size()) / 1024.0 << " KBytes"
             << std::endl;
 #endif
-            std::cout<<"sent bytes ="<<pss_client->get_sent_bytes()/1024.0<<"KB"<<std::endl;
-            std::cout<<"recv bytes ="<<pss_client->get_recv_bytes()/1024.0<<"KB"<<std::endl;
+    std::cout<< "comm. from client to server: "<< (psi_query.byte_size()+intersection_lastids.size() * sizeof(int32_t)+ query.byte_size()) / 1024.0 << " KBytes"
+            << std::endl;
+            // std::cout<<"sent bytes ="<<pss_client->get_sent_bytes()/1024.0<<"KB"<<std::endl;
+            // std::cout<<"recv bytes ="<<pss_client->get_recv_bytes()/1024.0<<"KB"<<std::endl;
             std::cout<<"mem usage of client: "<<GetMemoryUsage()<<"MB"<<std::endl;
+                std::cout<<"total time of client="<<timer_total.elapsed()<<std::endl;
                }
 
 
@@ -850,7 +856,7 @@ void psi_to_share_2party_socketopt(bool mode_switch, size_t host_log_n_data, siz
     std::cout<<"label_correctness="<<label_correctness<<std::endl;
     }
 
-    std::cout<<"total time ="<<timer_total.elapsed()<<std::endl;
+
 
 }
 
@@ -1171,9 +1177,10 @@ void psi_to_share_2party_socketopt(bool mode_switch, size_t host_log_n_data, siz
 #endif
     std::cout<<"comm. from server to client: "<< (psi_response.byte_size() + response.str().size())/ 1024.0 << " KBytes"
             << std::endl;
-                std::cout<<"sent bytes ="<<pss_server->get_sent_bytes()/1024.0<<"KB"<<std::endl;
-                std::cout<<"recv bytes ="<<pss_server->get_recv_bytes()/1024.0<<"KB"<<std::endl;
+                // std::cout<<"sent bytes ="<<pss_server->get_sent_bytes()/1024.0<<"KB"<<std::endl;
+                // std::cout<<"recv bytes ="<<pss_server->get_recv_bytes()/1024.0<<"KB"<<std::endl;
                 std::cout<<"mem usage of server: "<<GetMemoryUsage()<<"MB"<<std::endl;
+                std::cout<<"total time of server="<<timer_total.elapsed()<<std::endl;
            }
 
                if (player==player_client){
@@ -1198,9 +1205,10 @@ void psi_to_share_2party_socketopt(bool mode_switch, size_t host_log_n_data, siz
 #endif
     std::cout<< "comm. from client to server: "<< (psi_query.byte_size()+intersection_lastids.size() * sizeof(int32_t)+ query.byte_size()) / 1024.0 << " KBytes"
             << std::endl;
-                std::cout<<"sent bytes ="<<pss_client->get_sent_bytes()/1024.0<<"KB"<<std::endl;
-                std::cout<<"recv bytes ="<<pss_client->get_recv_bytes()/1024.0<<"KB"<<std::endl;
+                // std::cout<<"sent bytes ="<<pss_client->get_sent_bytes()/1024.0<<"KB"<<std::endl;
+                // std::cout<<"recv bytes ="<<pss_client->get_recv_bytes()/1024.0<<"KB"<<std::endl;
                 std::cout<<"mem usage of client: "<<GetMemoryUsage()<<"MB"<<std::endl;
+                    std::cout<<"total time of client="<<timer_total.elapsed()<<std::endl;
                }
 
 
@@ -1212,7 +1220,7 @@ void psi_to_share_2party_socketopt(bool mode_switch, size_t host_log_n_data, siz
     // std::cout<<"label_correctness="<<label_correctness<<std::endl;
     // }
 
-    std::cout<<"total time ="<<timer_total.elapsed()<<std::endl;
+
 
 
 }
