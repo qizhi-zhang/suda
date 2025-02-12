@@ -3,6 +3,7 @@ mpc_projects/build
 mpc_projects/src/third_party/*
 !mpc_projects/src/third_party/*.get
 !mpc_projects/src/third_party/*.deb
+!mpc_projects/src/third_party/pailliercryptolib_cmake
 iPrivJoin/build
 volepsi/out/*
 
