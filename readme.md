@@ -52,17 +52,18 @@ and re-run
 bash volepsi.get
 ```
 
-
-
-# Run  expierments for our work:
-
-
 ## Setup:
 
 ```
 cd mpc_projects
 bash setup.sh
 ```
+
+
+# Run  expierments for our work:
+
+
+
 
 ## Run expierments in Table 2
 
